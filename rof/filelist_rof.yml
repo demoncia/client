@@ -1,5 +1,5 @@
-version: 20210922b12dd045326ccc6d7c6915b6d222b964
-downloadprefix: https://raw.githubusercontent.com/demoncia/client/rof/
+version: 202109225d247d1c49eddf41e55fa266415fdc1a
+downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
   md5: 450e4acf0ef9dcbfa97d5016e1b93835
@@ -2376,17 +2376,17 @@ downloads:
   date: "20190107"
   size: 1520799
 - name: filelist_rof.yml
-  md5: 7391f0d319080e2a92109b553ef55758
+  md5: 52d5da3f0a6141165d012015968e743c
   date: "20210922"
-  size: 148242
+  size: 148243
 - name: filelistbuilder.go
   md5: db1edfddcbf8ed4842e605f9a9acc9b2
   date: "20210922"
   size: 7230
 - name: filelistbuilder.yml
-  md5: 0fa5152b5c5de1242176e39718620db6
+  md5: 0c44a0d2f3b611eda0c3d6d66764189d
   date: "20210922"
-  size: 168
+  size: 173
 - name: gksvggdiplus.dll
   md5: ca2b784dd19483a452e6766e9542e025
   date: "20190107"
