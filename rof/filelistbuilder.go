@@ -197,7 +197,7 @@ func visit(path string, f os.FileInfo, err error) error {
 		"ignore.txt",
 	}
 	for _, ig := range ignores {
-		if strings.EqualFold(path, ig) {
+		if strings.Contains(strings.ToLower(path), ig) {
 			return nil
 		}
 	}

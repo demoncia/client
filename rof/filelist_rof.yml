@@ -1,4 +1,4 @@
-version: 202109225d247d1c49eddf41e55fa266415fdc1a
+version: 20210922979f6cda8316865126770de9839e169e
 downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
@@ -820,10 +820,6 @@ downloads:
   md5: 25352a0502b2b2402be09c8ad742a009
   date: "20210922"
   size: 38254
-- name: Logs\eqlog_Xackery_beq.txt
-  md5: d8d4fbba2c3ddf32f76be8593843ea97
-  date: "20210922"
-  size: 2722
 - name: OptionsEditor.exe
   md5: 2e194d318c2cd6dcfecc643dfb6dacad
   date: "20190107"
@@ -2192,10 +2188,6 @@ downloads:
   md5: 42b4a9783b59d2fab7b402a1325da5d8
   date: "20210922"
   size: 48
-- name: UI_Xackery_beq.ini
-  md5: d2a036b2674e6d1ddcbea9e9299643f7
-  date: "20210922"
-  size: 17185
 - name: VoiceChat.ini
   md5: d41d8cd98f00b204e9800998ecf8427e
   date: "20190107"
@@ -2205,10 +2197,6 @@ downloads:
 - name: VoiceFiles.txt
   md5: d41d8cd98f00b204e9800998ecf8427e
   date: "20210921"
-- name: Xackery_beq.ini
-  md5: c09c2552c81043dd2de7d3487a3950cd
-  date: "20210920"
-  size: 821
 - name: actoremittersnew.edd
   md5: 8f32c3c7ee7fd560b00b127c07603a35
   date: "20190107"
@@ -2375,18 +2363,6 @@ downloads:
   md5: 003890c683fdf4112ccd45d8365a1a0b
   date: "20190107"
   size: 1520799
-- name: filelist_rof.yml
-  md5: 52d5da3f0a6141165d012015968e743c
-  date: "20210922"
-  size: 148243
-- name: filelistbuilder.go
-  md5: db1edfddcbf8ed4842e605f9a9acc9b2
-  date: "20210922"
-  size: 7230
-- name: filelistbuilder.yml
-  md5: 0c44a0d2f3b611eda0c3d6d66764189d
-  date: "20210922"
-  size: 173
 - name: gksvggdiplus.dll
   md5: ca2b784dd19483a452e6766e9542e025
   date: "20190107"
@@ -5173,9 +5149,6 @@ downloads:
   md5: 12953ceaadff7956303ee6842ffa02fe
   date: "20210921"
   size: 298
-- name: userdata\GN_Xackery_beq.txt
-  md5: d41d8cd98f00b204e9800998ecf8427e
-  date: "20210921"
 - name: userdata\IgnoreList.txt
   md5: 12953ceaadff7956303ee6842ffa02fe
   date: "20190107"
@@ -5200,10 +5173,6 @@ downloads:
   md5: a2650ddba107fe05e99b586eabe89569
   date: "20190107"
   size: 30720
-- name: xackery_characters.ini
-  md5: 728dbcb76bac1bf3a0d4f176fdb553cc
-  date: "20210922"
-  size: 38
 - name: xpcom.dll
   md5: 4338ec1f6babe553bf4337a2368d9c7f
   date: "20190107"
