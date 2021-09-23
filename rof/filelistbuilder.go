@@ -195,6 +195,10 @@ func visit(path string, f os.FileInfo, err error) error {
 		"filelistbuilder",
 		"filelist",
 		"ignore.txt",
+		"MemoryStrategy.txt",
+		"Sky.txt",
+		"dbg.txt",
+		"texture.txt",
 	}
 	for _, ig := range ignores {
 		if strings.Contains(strings.ToLower(path), ig) {

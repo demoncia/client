@@ -1,4 +1,4 @@
-version: 20210922979f6cda8316865126770de9839e169e
+version: 202109227e732820c01b46f9e83cc3a8b6e85aab
 downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
@@ -816,10 +816,6 @@ downloads:
   md5: fa43da158b383e041c9446c04aa7e11c
   date: "20210922"
   size: 542
-- name: Logs\dbg.txt
-  md5: 25352a0502b2b2402be09c8ad742a009
-  date: "20210922"
-  size: 38254
 - name: OptionsEditor.exe
   md5: 2e194d318c2cd6dcfecc643dfb6dacad
   date: "20190107"
@@ -2569,10 +2565,6 @@ downloads:
   md5: b7f3385125b78eb33877cc76db01a00f
   date: "20190107"
   size: 124296
-- name: texture.txt
-  md5: 37c9d2bf74e291a6c94bd02b3831163b
-  date: "20210922"
-  size: 16597
 - name: uifiles\default\Achievement_TitleBorders.tga
   md5: 681271547d49daf4545848a484bfa55f
   date: "20190107"
