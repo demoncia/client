@@ -1,0 +1,194 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Kunark_01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Kunark_02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Kunark_03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Kunark_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Firiona" X = 270 Y = 385/>
+<Label Text = "Vie" X = 280 Y = 400/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "firiona" ToolTip = "Firiona Vie">
+	<Rect X = 270 Y = 380 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Dreadlands" X = 150 Y = 320/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Dreadlands" ToolTip = "Dreadlands">
+	<Rect X = 150 Y = 320 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Karnor's" X = 195 Y = 280/>
+<Label Text = "Castle" X = 200 Y = 295/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "karnor" ToolTip = "Karnor's Castle">
+	<Rect X = 195 Y = 275 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Frontier" X = 140 Y = 260/>
+<Label Text = "Mountains" X = 135 Y = 275/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "frontiermtns" ToolTip = "Frontier Mountains">
+	<Rect X = 135 Y = 255 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Droga" X = 150 Y = 230/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Droga" ToolTip = "Droga">
+	<Rect X = 150 Y = 230 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Nurga" X = 180 Y = 245/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Nurga" ToolTip = "Nurga">
+	<Rect X = 180 Y = 245 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Burning" X = 65 Y = 260/>
+<Label Text = "Woods" X = 70 Y = 275/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "burningwood" ToolTip = "Burning Woods">
+	<Rect X = 65 Y = 255 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Chardok" X = 25 Y = 220/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "chardok" ToolTip = "Chardok">
+	<Rect X = 25 Y = 220 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Halls of" X = 0 Y = 290/>
+<Label Text = "Betrayal" X = 0 Y = 305/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "chardokb" ToolTip = "Halls of Betrayal">
+	<Rect X = 0 Y = 285 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Skyfire" X = 95 Y = 210/>
+<Label Text = "Mountains" X = 85 Y = 225/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "skyfire" ToolTip = "Skyfire Mountains">
+	<Rect X = 85 Y = 205 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Veeshan's" X = 75 Y = 160/>
+<Label Text = "Peak" X = 85 Y = 175/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "veeshan" ToolTip = "Veeshan's Peek">
+	<Rect X = 75 Y = 155 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "The" X = 190 Y = 170/>
+<Label Text = "Overthere" X = 175 Y = 185/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "overthere" ToolTip = "The Overthere">
+	<Rect X = 175 Y = 165 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Howling" X = 145 Y = 120/>
+<Label Text = "Stones" X = 147 Y = 135/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "charasis" ToolTip = "Howling Stones">
+	<Rect X = 145 Y = 115 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "To South Ro" X = 315 Y = 5/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SEast.xml" ToolTip = "To South Ro">
+	<Rect X = 315 Y = 5 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "To Butcherblock" X = 445 Y = 5/>
+<Label Text = "Mountains" X = 455 Y = 20/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Faydwer.xml" ToolTip = "To Butcherblock Mountains">
+	<Rect X = 445 Y = 0 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Timorous" X = 405 Y = 40/>
+<Label Text = "Deep" X = 415 Y = 55/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "timorous" ToolTip = "Timorous Deep">
+	<Rect X = 405 Y = 35 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Warsliks" X = 235 Y = 155/>
+<Label Text = "Woods" X = 240 Y = 170/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "warslikswood" ToolTip = "Warsliks Woods">
+	<Rect X = 235 Y = 150 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Dalnir's" X = 235 Y = 115/>
+<Label Text = "Tomb" X = 240 Y = 130/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "dalnir" ToolTip = "Dalnir's Tomb">
+	<Rect X = 235 Y = 110 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "West" X = 285 Y = 225/>
+<Label Text = "Cabilis" X = 280 Y = 240/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "cabwest" ToolTip = "West Cabilis">
+	<Rect X = 280 Y = 220 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Veksar" X = 225 Y = 225/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "veksar" ToolTip = "Veksar">
+	<Rect X = 225 Y = 225 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Lake of" X = 235 Y = 255/>
+<Label Text = "Ill Omen" X = 230 Y = 270/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "lakeofillomen" ToolTip = "Lake of Ill Omen">
+	<Rect X = 230 Y = 250 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "East" X = 315 Y = 255/>
+<Label Text = "Cabilis" X = 310 Y = 270/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "cabeast" ToolTip = "East Cabilis">
+	<Rect X = 310 Y = 250 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Swamp of" X = 330 Y = 285/>
+<Label Text = "No Hope" X = 330 Y = 300/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "swampofnohope" ToolTip = "Swamp of No Hope">
+	<Rect X = 330 Y = 280 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Trakanon's" X = 410 Y = 315/>
+<Label Text = "Teeth" X = 425 Y = 330/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "trakanon" ToolTip = "Trakanon's Teeth">
+	<Rect X = 410 Y = 310 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Sebilis" X = 400 Y = 365/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "sebilis" ToolTip = "Sebilis">
+	<Rect X = 400 Y = 365 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Emerald" X = 400 Y = 235/>
+<Label Text = "Jungle" X = 405 Y = 250/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "emeraldjungle" ToolTip = "Emerald Jungle">
+	<Rect X = 400 Y = 230 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "City of" X = 430 Y = 185/>
+<Label Text = "Mist" X = 437 Y = 200/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "citymist" ToolTip = "City of Mist">
+	<Rect X = 430 Y = 180 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Field of" X = 330 Y = 175/>
+<Label Text = "Bone" X = 332 Y = 190/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "fieldofbone" ToolTip = "Field of Bone">
+	<Rect X = 330 Y = 170 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Kurn's" X = 340 Y = 135/>
+<Label Text = "Tower" X = 342 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Kurn" ToolTip = "Kurn's Tower">
+	<Rect X = 340 Y = 130 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Kaesora" X = 380 Y = 155/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "kaesora" ToolTip = "Kaesora">
+	<Rect X = 380 Y = 155 CX = 50 CY = 15/>
+</Link>
+
+
+

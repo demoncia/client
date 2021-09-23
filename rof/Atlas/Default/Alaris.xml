@@ -1,0 +1,110 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "alaris00.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "alaris01.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "alaris03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "alaris02.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "To Shard's" X = 65 Y = 27/>
+<Label Text = "Landing" X = 72 Y = 42/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "RainofFear.xml" ToolTip = "Shard's Landing">
+	<Rect X = 65 Y = 27 CX = 130 CY = 40/>
+</Link>
+
+<Label Text = "Windsong Sanctuary" X = 120 Y = 75/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "windsong" ToolTip = "Windsong Sanctuary">
+	<Rect X = 125 Y = 25 CX = 115 CY = 70/>
+</Link>
+
+<Label Text = "Sepulcher" X = 20 Y = 100/>
+<Label Text = "West" X = 35 Y = 115/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "westsepulcher" ToolTip = "Sepulcher West">
+	<Rect X = 10 Y = 65 CX = 85 CY = 65/>
+</Link>
+
+<Label Text = "Pillars" X = 205 Y = 150/>
+<Label Text = "of Alra" X = 205 Y = 165/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "pillarsalra" ToolTip = "Pillars of Alra">
+	<Rect X = 190 Y = 105 CX = 65 CY = 85/>
+</Link>
+
+<Label Text = "Argath" X = 387 Y = 140/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "argath" ToolTip = "Argath">
+	<Rect X = 365 Y = 80 CX = 80 CY = 80/>
+</Link>
+
+<Label Text = "Sepulcher" X = 35 Y = 200/>
+<Label Text = "of Order" X = 40 Y = 215/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "sepulcher" ToolTip = "Sepulcher of Order">
+	<Rect X = 30 Y = 135 CX = 65 CY = 100/>
+</Link>
+
+<Label Text = "City" X = 130 Y = 215/>
+<Label Text = "of Bronze" X = 115 Y = 230/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "cityofbronze" ToolTip = "City of Bronze">
+	<Rect X = 110 Y = 150 CX = 60 CY = 95/>
+</Link>
+
+<Label Text = "Sepulcher East" X = 60 Y = 275/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "eastsepulcher" ToolTip = "Sepulcher East">
+	<Rect X = 60 Y = 250 CX = 85 CY = 75/>
+</Link>
+
+<Label Text = "Resplendent" X = 190 Y = 270/>
+<Label Text = "Temple" X = 205 Y = 285/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "resplendent" ToolTip = "Resplendent Temple">
+	<Rect X = 170 Y = 205 CX = 110 CY = 95/>
+</Link>
+
+<Label Text = "Valley of" X = 320 Y = 290/>
+<Label Text = "Lunanyn" X = 320 Y = 305/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "arelis" ToolTip = "Valley of Lunanyn">
+	<Rect X = 290 Y = 210 CX = 100 CY = 120/>
+</Link>
+
+<Label Text = "Beasts'" X = 430 Y = 275/>
+<Label Text = "Domain" X = 430 Y = 290/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "beastdomain" ToolTip = "Beasts' Domain">
+	<Rect X = 405 Y = 215 CX = 90 CY = 90/>
+</Link>
+
+<Label Text = "To Grelleth's Palace," X = 117 Y = 345/>
+<Label Text = "the Chateau of Filth" X = 120 Y = 360/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "RainofFear.xml" ToolTip = "Grelleth's Palace, the Chateau of Filth">
+	<Rect X = 117 Y = 345 CX = 115 CY = 30/>
+</Link>
+
+<Label Text = "Sarith City" X = 235 Y = 395/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "sarithcity" ToolTip = "Sarith City">
+	<Rect X = 235 Y = 325 CX = 55 CY = 85/>
+</Link>
+
+<Label Text = "To Evantil," X = 420 Y = 355/>
+<Label Text = "the Vile Oak" X = 415 Y = 370/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "RainofFear.xml" ToolTip = "Evantil, the Vile Oak">
+	<Rect X = 415 Y = 355 CX = 65 CY = 35/>
+</Link>
+
+<Label Text = "Rubak Oseka" X = 225 Y = 475/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "rubak" ToolTip = "Rubak Oseka">
+	<Rect X = 220 Y = 420 CX = 90 CY = 70/>
+</Link>
+
+<Label Text = "To Steamfont" X = 445 Y = 25/>
+<Label Text = "Mountains" X = 455 Y = 40/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Faydwer.xml" ToolTip = "To Steamfont Mountains">
+	<Rect X = 445 Y = 20 CX = 80 CY = 40/>
+</Link>

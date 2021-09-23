@@ -1,0 +1,96 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Atlas00.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Atlas01.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Atlas02.tga">
+	<Rect X = 512 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Atlas03.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Atlas04.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Atlas05.tga">
+	<Rect X = 512 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Label Text = "Odus" X = 45 Y = 155/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Odus.xml" ToolTip = "Odus">
+	<Rect X = 20 Y = 125 CX = 80 CY = 105/>
+</Link>
+<Label Text = "Omens" X = 37 Y = 60/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Omens.xml" ToolTip = "Omens">
+	<Rect X = 25 Y = 40 CX = 65 CY = 60/>
+</Link>
+<Label Text = "North West" X = 120 Y = 90/>
+<Label Text = "Antonica" X = 128 Y = 105/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NWest.xml" ToolTip = "North West Antonica">
+	<Rect X = 110 Y = 25 CX = 80 CY = 110/>
+</Link>
+<Label Text = "North Central" X = 175 Y = 50/>
+<Label Text = "Antonica" X = 188 Y = 65/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NCentral.xml" ToolTip = "North Central Antonica">
+	<Rect X = 175 Y = 25 CX = 75 CY = 70/>
+</Link>
+<Label Text = "North East" X = 265 Y = 70/>
+<Label Text = "Antonica" X = 271 Y = 85/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NEast.xml" ToolTip = "North East Antonica">
+	<Rect X = 255 Y = 25 CX = 75 CY = 100/>
+</Link>
+<Label Text = "South West" X = 120 Y = 170/>
+<Label Text = "Antonica" X = 130 Y = 185/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SWest.xml" ToolTip = "South West Antonica">
+	<Rect X = 110 Y = 125 CX = 95 CY = 100/>
+</Link>
+<Label Text = "South East" X = 210 Y = 160/>
+<Label Text = "Antonica" X = 220 Y = 175/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SEast.xml" ToolTip = "South East Antonica">
+	<Rect X = 195 Y = 120 CX = 95 CY = 120/>
+</Link>
+<Label Text = "Luclin" X = 415 Y = 70/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "Luclin">
+	<Rect X = 380 Y = 20 CX = 95 CY = 105/>
+</Link>
+<Label Text = "Luclin" X = 350 Y = 120/>
+<Label Text = "Underground" X = 330 Y = 135/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin_Underground.xml" ToolTip = "Luclin Underground">
+	<Rect X = 320 Y = 115 CX = 75 CY = 40/>
+</Link>
+<Label Text = "Faydwer" X = 400 Y = 220/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Faydwer.xml" ToolTip = "Faydwer">
+	<Rect X = 350 Y = 180 CX = 140 CY = 115/>
+</Link>
+<Label Text = "Gates" X = 60 Y = 330/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Gates.xml" ToolTip = "Gates">
+	<Rect X = 20 Y = 275 CX = 105 CY = 115/>
+</Link>
+<Label Text = "Planes of Power" X = 150 Y = 310/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Planes.xml" ToolTip = "Planes of Power">
+	<Rect X = 150 Y = 300 CX = 110 CY = 50/>
+</Link>
+<Label Text = "Other Planes" X = 155 Y = 360/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "PlanesOther.xml" ToolTip = "Other Planes">
+	<Rect X = 150 Y = 350 CX = 80 CY = 40/>
+</Link>
+<Label Text = "Kunark" X = 350 Y = 405/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Kunark.xml" ToolTip = "Kunark">
+	<Rect X = 275 Y = 355 CX = 200 CY = 130/>
+</Link>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Kunark.xml" ToolTip = "Kunark">
+	<Rect X = 400 Y = 315 CX = 50 CY = 40/>
+</Link>
+<Label Text = "Velious" X = 100 Y = 440/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Velious.xml" ToolTip = "Velious">
+	<Rect X = 50 Y = 410 CX = 165 CY = 85/>
+</Link>
+<Label Text = "The Void" X = 283 Y = 283/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Void.xml" ToolTip = "The Void">
+	<Rect X = 275 Y = 255 CX = 65 CY = 65/>
+</Link>
+<Label Text = "Alaris" X = 575 Y = 375/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Alaris.xml" ToolTip = "Alaris">
+	<Rect X = 515 Y = 275 CX = 190 CY = 160/>
+</Link>

@@ -1,0 +1,101 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Luclin_Underground_01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Luclin_Underground_02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Luclin_Underground_03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Luclin_Underground_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "To Ssraeshza" X = 120 Y = 180/>
+<Label Text = "Temple" X = 140 Y = 195/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To Ssraeshza Temple">
+	<Rect X = 120 Y = 175 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "To Hollowshade" X = 150 Y = 100/>
+<Label Text = "Moor" X = 185 Y = 115/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To Hollowshade Moor">
+	<Rect X = 150 Y = 95 CX = 80 CY = 40/>
+</Link>
+
+<Label Text = "To Shadeweaver's" X = 250 Y = 100/>
+<Label Text = "Thicket" X = 280 Y = 115/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To Shadeweaver's Thicket">
+	<Rect X = 250 Y = 95 CX = 80 CY = 40/>
+</Link>
+
+<Label Text = "Paludal" X = 230 Y = 140/>
+<Label Text = "Caverns" X = 230 Y = 155/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "paludal" ToolTip = "Paludal Caverns">
+	<Rect X = 230 Y = 135 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Bazaar" X = 280 Y = 160/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "bazaar" ToolTip = "Bazaar">
+	<Rect X = 280 Y = 160 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Netherbian" X = 320 Y = 170/>
+<Label Text = "Lair" X = 335 Y = 185/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "netherbian" ToolTip = "Netherbian Lair">
+	<Rect X = 320 Y = 165 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "To Dawnshroud" X = 350 Y = 130/>
+<Label Text = "Peaks" X = 370 Y = 145/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To Dawnshroud Peaks">
+	<Rect X = 350 Y = 125 CX = 80 CY = 40/>
+</Link>
+
+<Label Text = "To Marus" X = 360 Y = 200/>
+<Label Text = "Seru" X = 375 Y = 215/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "Marus Seru">
+	<Rect X = 360 Y = 195 CX = 80 CY = 40/>
+</Link>
+
+<Label Text = "Nexus" X = 305 Y = 210/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "nexus" ToolTip = "Nexus">
+	<Rect X = 305 Y = 210 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Shadow" X = 240 Y = 190/>
+<Label Text = "Haven" X = 245 Y = 205/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "shadowhaven" ToolTip = "Shadow Haven">
+	<Rect X = 240 Y = 185 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Echo" X = 255 Y = 230/>
+<Label Text = "Caverns" X = 250 Y = 245/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "echo" ToolTip = "Echo Caverns">
+	<Rect X = 250 Y = 225 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "The" X = 195 Y = 230/>
+<Label Text = "Deep" X = 190 Y = 245/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thedeep" ToolTip = "The Deep">
+	<Rect X = 190 Y = 225 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Fungus" X = 330 Y = 250/>
+<Label Text = "Grove" X = 335 Y = 265/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "fungusgrove" ToolTip = "Fungus Grove">
+	<Rect X = 330 Y = 245 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "To Twilight" X = 350 Y = 320/>
+<Label Text = "Sea" X = 365 Y = 335/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To Twilight Sea">
+	<Rect X = 350 Y = 315 CX = 50 CY = 40/>
+</Link>

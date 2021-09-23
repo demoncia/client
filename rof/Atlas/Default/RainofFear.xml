@@ -1,0 +1,131 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "rainoffear00.tga">
+	<Rect X = 60 Y = 60 CX = 256 CY = 256/>
+</Image>
+<Image File = "rainoffear01.tga">
+	<Rect X = 316 Y = 60 CX = 256 CY = 256/>
+</Image>
+<Image File = "rainoffear02.tga">
+	<Rect X = 60 Y = 316 CX = 256 CY = 256/>
+</Image>
+<Image File = "rainoffear03.tga">
+	<Rect X = 316 Y = 316 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "To Gorge of" X = 30  Y = 62/>
+<Label Text = "King Xorbb" X = 31 Y = 77/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NEast.xml" ToolTip = "To Gorge of King Xorbb">
+	<Rect X = 25 Y = 62 CX = 70 CY = 30/>
+</Link>
+
+<Label Text = "To City of Bronze" X = 240  Y = 55/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Alaris.xml" ToolTip = "To City of Bronze">
+	<Rect X = 240 Y = 55 CX = 90 CY = 15/>
+</Link>
+
+<Label Text = "To Dragon Necropolis" X = 448  Y = 52/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Velious.xml" ToolTip = "To Dragon Necropolis">
+	<Rect X = 448 Y = 52 CX = 120 CY = 15/>
+</Link>
+
+<Label Text = "Valley of King Xorbb" X = 150 Y = 165/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "xorbb" ToolTip = "Valley of King Xorbb">
+	<Rect X = 150 Y = 77 CX = 110 CY = 103/>
+</Link>
+
+<Label Text = "The Breeding Grounds" X = 320 Y = 177/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "breedinggrounds" ToolTip = "The Breeding Grounds">
+	<Rect X = 320 Y = 77 CX = 110 CY = 113/>
+</Link>
+
+
+<Label Text = "To Resplendent Temple" X = 530  Y = 160/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Alaris.xml" ToolTip = "To Resplendent Temple">
+	<Rect X = 530 Y = 160 CX = 130 CY = 15/>
+</Link>
+
+<Label Text = "Evantil, the Vile Oak" X = 100 Y = 305/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "eviltree" ToolTip = "Evantil, the Vile Oak">
+	<Rect X = 80 Y = 200 CX = 130 CY = 125/>
+</Link>
+
+<Label Text = "Shard's Landing" X = 278 Y = 320/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "shardslanding" ToolTip = "Shard's Landing">
+	<Rect X = 238 Y = 220 CX = 150 CY = 115/>
+</Link>
+
+<Label Text = "Grelleth's Palace," X = 450 Y = 260/>
+<Label Text = "the Chateau of Filth" X = 445 Y = 275/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "grelleth" ToolTip = "Grelleth's Palace, the Chateau of Filth">
+	<Rect X = 440 Y = 175 CX = 110 CY = 115/>
+</Link>
+
+
+<Label Text = "To Beasts' Domain" X = 20  Y = 370/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Alaris.xml" ToolTip = "To Beasts' Domain">
+	<Rect X = 20 Y = 370 CX = 110 CY = 15/>
+</Link>
+
+<Label Text = "The Crystal Caverns:" X = 86 Y = 520/>
+<Label Text = "Fragment of Fear" X = 96 Y = 535/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "crystalshard" ToolTip = "The Crystal Caverns: Fragment of Fear">
+	<Rect X = 80 Y = 450 CX = 110 CY = 100/>
+</Link>
+
+<Label Text = "East Wastes:" X = 202 Y = 427/>
+<Label Text = "Zeixshi-Kar's" X = 203 Y = 442/>
+<Label Text = "Awakening" X = 209 Y = 457/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "eastwastesshard" ToolTip = "East Wastes: Zeixshi-Kar's Awakening">
+	<Rect X = 180 Y = 370 CX = 120 CY = 85/>
+</Link>
+
+
+<Label Text = "Kael Drakkel:" X = 322 Y = 522/>
+<Label Text = "The King's Madness" X = 302 Y = 537/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "kaelshard" ToolTip = "Kael Drakkel: The King's Madness">
+	<Rect X = 290 Y = 440 CX = 120 CY = 110/>
+</Link>
+
+
+<Label Text = "To Eastern" X = 210  Y = 550/>
+<Label Text = "Wastes" X = 220 Y = 565/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Velious.xml" ToolTip = "To Eastern Wastes">
+	<Rect X = 210 Y = 550 CX = 65 CY = 30/>
+</Link>
+
+<Label Text = "Chapterhouse" X = 450 Y = 430/>
+<Label Text = "of the Fallen" X = 457 Y = 445/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "chapterhouse" ToolTip = "Chapterhouse of the Fallen">
+	<Rect X = 420 Y = 315 CX = 130 CY = 140/>
+</Link>
+
+<Label Text = "To Commonlands" X = 535  Y = 520/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NEast.xml" ToolTip = "To Commonlands">
+	<Rect X = 535 Y = 520 CX = 100 CY = 15/>
+</Link>
+
+<Label Text = "Chelsith Reborn" X = 456  Y = 134/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "chelsithreborn" ToolTip = "Chelsith Reborn">
+	<Rect X = 456  Y = 68 CX = 90 CY = 90/>
+</Link>
+
+<Label Text = "Plane of Shadow" X = 426  Y = 561/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "poshadow" ToolTip = "Plane of Shadow">
+	<Rect X = 426 Y = 459 CX = 95 CY = 120/>
+</Link>
+
+<Label Text = "To The Grey" X = 552  Y = 77/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To The Grey">
+	<Rect X = 552 Y = 77 CX = 100 CY = 15/>
+</Link>
+
+<Label Text = "To Vex Thal" X = 529  Y = 573/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin.xml" ToolTip = "To Vex Thal">
+	<Rect X = 529 Y = 573 CX = 100 CY = 15/>
+</Link>

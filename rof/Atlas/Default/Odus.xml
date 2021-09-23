@@ -1,0 +1,139 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Odus_01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Odus_02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Odus_03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Odus_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Paineel" X = 60 Y = 172/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "paineel" ToolTip = "Paineel">
+	<Rect X = 60 Y = 172 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "The" X = 42 Y = 221/>
+<Label Text = "Hole" X = 42 Y = 236/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "hole" ToolTip = "The Hole">
+	<Rect X = 38 Y = 221 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Underfoot" X = 70 Y = 280/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Underfoot.xml" ToolTip = "Underfoot">
+	<Rect X = 45 Y = 250 CX = 80 CY = 50/>
+</Link>
+
+<Label Text = "The" X = 108 Y = 181/>
+<Label Text = "Warrens" X = 108 Y = 196/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "warrens" ToolTip = "The Warrens">
+	<Rect X = 108 Y = 181 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Stonebrunt" X = 148 Y = 166/>
+<Label Text = "Mountains" X = 148 Y = 181/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "stonebrunt" ToolTip = "Stonebrunt Mountains">
+	<Rect X = 148 Y = 166 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Barren" X = 223 Y = 192/>
+<Label Text = "Coast" X = 223 Y = 207/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "barren" ToolTip = "Barren Coast">
+	<Rect X = 223 Y = 192 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "To Gulf" X = 155 Y = 236/>
+<Label Text = "of Gunthak" X = 155 Y = 251/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SEast.xml" ToolTip = "To Gulf of Gunthak">
+	<Rect X = 155 Y = 236 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Toxxulia Forest" X = 100 Y = 130/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "toxxulia" ToolTip = "Toxxulia Forest">
+	<Rect X = 100 Y = 130 CX = 90 CY = 20/>
+</Link>
+
+<Label Text = "Erudin" X = 160 Y = 72/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "erudnext" ToolTip = "Erudin">
+	<Rect X = 160 Y = 72 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Erudin Palace" X = 100 Y = 27/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "erudnint" ToolTip = "Erudin Palace">
+	<Rect X = 100 Y = 27 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Erud's" X = 218 Y = 22/>
+<Label Text = "Crossing" X = 218 Y = 37/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "erudsxing" ToolTip = "Erud's Crossing">
+	<Rect X = 218 Y = 22 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "To South" X = 321 Y = 10/>
+<Label Text = "Qeynos" X = 321 Y = 25/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NWest.xml" ToolTip = "To South Qeynos">
+	<Rect X = 321 Y = 10 CX = 60 CY = 30/>
+</Link>
+
+<Label Text = "Monkey" X = 419 Y = 468/>
+<Label Text = "Rock" X = 419 Y = 483/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "monkeyrock" ToolTip = "Monkey Rock">
+	<Rect X = 419 Y = 468 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Redfeather" X = 307 Y = 462/>
+<Label Text = "Isle" X = 307 Y = 477/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "redfeather" ToolTip = "Redfeather Isle">
+	<Rect X = 307 Y = 462 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Suncrest" X = 393 Y = 375/>
+<Label Text = "Isle" X = 393 Y = 390/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "suncrest" ToolTip = "Suncrest Isle">
+	<Rect X = 393 Y = 375 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Deadbone" X = 393 Y = 206/>
+<Label Text = "Reef" X = 393 Y = 221/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "deadbone" ToolTip = "Deadbone Reef">
+	<Rect X = 393 Y = 206 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Blacksail" X = 305 Y = 210/>
+<Label Text = "Folly" X = 305 Y = 225/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "blacksail" ToolTip = "Blacksail Folly">
+	<Rect X = 305 Y = 210 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Maiden's" X = 270 Y = 271/>
+<Label Text = "Grave" X = 270 Y = 286/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "maidensgrave" ToolTip = "Maiden's Grave">
+	<Rect X = 270 Y = 271 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Jardel's" X = 201 Y = 359/>
+<Label Text = "Hook" X = 201 Y = 374/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "jardelshook" ToolTip = "Jardel's Hook">
+	<Rect X = 201 Y = 359 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Buried Sea" X = 233 Y = 246/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "buriedsea" ToolTip = "Buried Sea">
+	<Rect X = 233 Y = 246 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Mouth of Prexus" X = 315 Y = 309/>
+<Label Text = "(to Katta Castrum)" X = 315 Y = 324/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Combine.xml" ToolTip = "Mouth of Prexus">
+	<Rect X = 307 Y = 309 CX = 100 CY = 40/>
+</Link>

@@ -1,0 +1,82 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Planes_05.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_06.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_07.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_08.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Sky" X = 90 Y = 250/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "airplane" ToolTip = "Sky">
+	<Rect X = 90 Y = 250 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Fear" X = 210 Y = 100/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "fearplane" ToolTip = "Fear">
+	<Rect X = 210 Y = 100 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Deathknell" X = 50 Y = 60/>
+
+<Label Text = "Theater" X = 93 Y = 120/>
+<Label Text = "of Blood" X = 90 Y = 135/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "theater" ToolTip = "Theater of Blood">
+	<Rect X = 90 Y = 115 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Sverag" X = 230 Y = 220/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "rage" ToolTip = "Sverag">
+	<Rect X = 230 Y = 220 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Devastation" X = 220 Y = 270/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "devastation" ToolTip = "Devastation">
+	<Rect X = 220 Y = 270 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Mischief" X = 400 Y = 250/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "mischiefplane" ToolTip = "Mischief">
+	<Rect X = 400 Y = 250 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Relic" X = 360 Y = 70/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "relic" ToolTip = "Relic">
+	<Rect X = 355 Y = 70 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Skylance" X = 355 Y = 110/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "skylance" ToolTip = "Skylance">
+	<Rect X = 355 Y = 110 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Arcstone" X = 355 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "arcstone" ToolTip = "Arcstone">
+	<Rect X = 355 Y = 150 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Hate" X = 375 Y = 380/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "hateplaneb" ToolTip = "Hate">
+	<Rect X = 375 Y = 380 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Nature" X = 100 Y = 380/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "growthplane" ToolTip = "Nature">
+	<Rect X = 100 Y = 380 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Solteris" X = 240 Y = 400/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "solteris" ToolTip = "Solteris">
+	<Rect X = 240 Y = 400 CX = 40 CY = 15/>
+</Link>

@@ -1,0 +1,89 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Antonica_swest01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_swest02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_swest03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_swest04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+<Label Text = "To North" X = 230 Y = 5/>
+<Label Text = "Karana" X = 233 Y = 20/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NWest.xml" ToolTip = "To North Karana">
+	<Rect X = 230 Y = 0 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "South" X = 270 Y = 60/>
+<Label Text = "Karana" X = 270 Y = 75/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "southkarana" ToolTip = "South Karana">
+	<Rect X = 270 Y = 55 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Splitpaw" X = 340 Y = 65/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "paw" ToolTip = "Splitpaw">
+	<Rect X = 335 Y = 60 CX = 60 CY = 20/>
+</Link>
+
+<Label Text = "Lake" X = 250 Y = 175/>
+<Label Text = "Rathe" X = 247 Y = 190/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "lakerathe" ToolTip = "Lake Rathe">
+	<Rect X = 245 Y = 170 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "The" X = 185 Y = 160/>
+<Label Text = "Arena" X = 180 Y = 175/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "arena" ToolTip = "The Arena">
+	<Rect X = 180 Y = 155 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Rathe" X = 340 Y = 195/>
+<Label Text = "Mountains" X = 330 Y = 210/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "rathemtn" ToolTip = "Rathe Mountains">
+	<Rect X = 335 Y = 190 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Feerrott" X = 325 Y = 330/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "feerrott" ToolTip = "Feerrott">
+	<Rect X = 320 Y = 325 CX = 50 CY = 20/>
+</Link>
+
+<Label Text = "Oggok" X = 365 Y = 300/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oggok" ToolTip = "Oggok">
+	<Rect X = 360 Y = 295 CX = 50 CY = 20/>
+</Link>
+
+<Label Text = "To Plane" X = 280 Y = 370/>
+<Label Text = "of Fear" X = 285 Y = 385/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Planes.xml" ToolTip = "To Plane of Fear">
+	<Rect X = 275 Y = 365 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Temple of" X = 375 Y = 380/>
+<Label Text = "Cazic Thule" X = 370 Y = 395/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "cazicthule" ToolTip = "Temple of Cazic Thule">
+	<Rect X = 370 Y = 380 CX = 70 CY = 40/>
+</Link>
+
+<Label Text = "To Innothule" X = 427 Y = 325/>
+<Label Text = "Swamp" X = 440 Y = 340/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SEast.xml" ToolTip = "To Innothule Swamp">
+	<Rect X = 425 Y = 320 CX = 70 CY = 40/>
+</Link>
+
+<Label Text = "To House" X = 230 Y = 320/>
+<Label Text = "of Thule" X = 235 Y = 335/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "houseofthule.xml" ToolTip = "To House of Thule">
+	<Rect X = 225 Y = 315 CX = 60 CY = 40/>
+</Link>
+
+

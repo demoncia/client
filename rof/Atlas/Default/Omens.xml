@@ -1,0 +1,86 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Omens01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Omens02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Omens03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Omens04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Anguish" X = 115 Y = 70/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Anguish" ToolTip = "Anguish">
+	<Rect X = 115 Y = 70 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Wall of" X = 345 Y = 160/>
+<Label Text = "Slaughter" X = 340 Y = 175/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "wallofslaughter" ToolTip = "Wall of Slaughter">
+	<Rect X = 340 Y = 155 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Muramite" X = 370 Y = 100/>
+<Label Text = "Proving Grounds" X = 350 Y = 115/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "provinggrounds" ToolTip = "Muramite Proving Grounds">
+	<Rect X = 350 Y = 95 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Riftseeker's" X = 420 Y = 40/>
+<Label Text = "Sanctum" X = 430 Y = 55/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "riftseekers" ToolTip = "Riftseeker's Sanctum">
+	<Rect X = 420 Y = 35 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Nobles'" X = 350 Y = 250/>
+<Label Text = "Causeway" X = 340 Y = 265/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "causeway" ToolTip = "Nobles' Causeway">
+	<Rect X = 340 Y = 245 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Dranik's" X = 350 Y = 370/>
+<Label Text = "Scar" X = 360 Y = 385/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "draniksscar" ToolTip = "Dranik's Scar">
+	<Rect X = 350 Y = 365 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "To Norrath" X = 320 Y = 440/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "To Norrath">
+	<Rect X = 320 Y = 440 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Dranik" X = 445 Y = 410/>
+<Label Text = "Hollows" X = 440 Y = 425/>
+
+
+<Label Text = "Harbingers'" X = 440 Y = 360/>
+<Label Text = "Spire" X = 455 Y = 375/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Harbingers" ToolTip = "Harbingers' Spire">
+	<Rect X = 440 Y = 355 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Bloodfields" X = 130 Y = 400/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "bloodfields" ToolTip = "Bloodfields">
+	<Rect X = 130 Y = 400 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Ruined City" X = 70 Y = 290/>
+<Label Text = "of Dranik" X = 80 Y = 305/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "dranik" ToolTip = "Ruined City of Dranik">
+	<Rect X = 70 Y = 285 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Dranik" X = 155 Y = 230/>
+<Label Text = "Sewers" X = 150 Y = 245/>
+
+<Label Text = "Dranik" X = 40 Y = 230/>
+<Label Text = "Catacombs" X = 30 Y = 245/>

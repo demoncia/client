@@ -1,0 +1,139 @@
+<Background Image = "star_bkg.tga" CX = 256 CY = 256 />
+<Image File = "Void01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Void02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Void03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Void04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Kurn's" X = 200 Y = 10/>
+<Label Text = "Tower" X = 200 Y = 25/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldkurn" ToolTip = "Kurn's Tower">
+	<Rect X = 190 Y = 10 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Field" X = 175 Y = 60/>
+<Label Text = "of Scale" X = 167 Y = 75/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldfieldofbone" ToolTip = "Field of Scale">
+	<Rect X = 160 Y = 60 CX = 60 CY = 35/>
+</Link>
+
+<Label Text = "Kaesora" X = 110 Y = 115/>
+<Label Text = "Library" X = 115 Y = 130/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldkaesoraa" ToolTip = "Kaesora Library">
+	<Rect X = 105 Y = 110 CX = 65 CY = 35/>
+</Link>
+
+<Label Text = "Kaesora" X = 225 Y = 95/>
+<Label Text = "Hatchery" X = 225 Y = 110/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldkaesorab" ToolTip = "Kaesora Hatchery">
+	<Rect X = 215 Y = 90 CX = 65 CY = 40/>
+</Link>
+
+<Label Text = "Precipice" X = 345 Y = 40/>
+<Label Text = "of War" X = 355 Y = 55/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "precipiceofwar" ToolTip = "Precipice of War">
+	<Rect X = 335 Y = 35 CX = 75 CY = 40/>
+</Link>
+
+<Label Text = "Bloodfields" X = 320 Y = 120/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldbloodfield" ToolTip = "Bloodfields">
+	<Rect X = 300 Y = 105 CX = 100 CY = 40/>
+</Link>
+
+<Label Text = "City of" X = 437 Y = 110/>
+<Label Text = "Dranik" X = 435 Y = 125/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "olddranik" ToolTip = "City of Dranik">
+	<Rect X = 420 Y = 105 CX = 50 CY = 50/>
+</Link>
+<!--
+<Label Text = "Highpass" X = 35 Y = 150/>
+<Label Text = "Hold" X = 50 Y = 165/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldhighpass" ToolTip = "Highpass Hold">
+	<Rect X = 20 Y = 145 CX = 80 CY = 40/>
+</Link>
+-->
+<Label Text = "Bloody" X = 65 Y = 190/>
+<Label Text = "Kithicor" X = 63 Y = 205/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldkithicor" ToolTip = "Bloody Kithicor">
+	<Rect X = 55 Y = 190 CX = 55 CY = 35/>
+</Link>
+
+<Label Text = "Commonlands" X = 80 Y = 230/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldcommons" ToolTip = "Commonlands">
+	<Rect X = 75 Y = 225 CX = 100 CY = 25/>
+</Link>
+
+<Label Text = "The" X = 198 Y = 215/>
+<Label Text = "Void" X = 197 Y = 230/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thevoida" ToolTip = "The Void">
+	<Rect X = 180 Y = 205 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Toskirakk" X = 285 Y = 245/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "toskirakk" ToolTip = "Toskirakk">
+	<Rect X = 275 Y = 190 CX = 120 CY = 80/>
+</Link>
+
+<Label Text = "Korascian" X = 355 Y = 275/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "korascian" ToolTip = "Korascian">
+	<Rect X = 350 Y = 250 CX = 140 CY = 80/>
+</Link>
+
+<Label Text = "Rathe Council" X = 390 Y = 360/>
+<Label Text = "Chamber" X = 405 Y = 375/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "rathechamber" ToolTip = "Rathe Council Chamber">
+	<Rect X = 380 Y = 360 CX = 130 CY = 80/>
+</Link>
+
+<Label Text = "Oceangreen" X = 30 Y = 290/>
+<Label Text = "Hills" X = 50 Y = 305/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oceangreenhills" ToolTip = "Oceangreen Hills">
+	<Rect X = 25 Y = 285 CX = 80 CY = 40/>
+</Link>
+
+<Label Text = "Oceangreen" X = 100 Y = 375/>
+<Label Text = "Village" X = 115 Y = 390/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oceangreenvillage" ToolTip = "Oceangreen Village">
+	<Rect X = 95 Y = 370 CX = 80 CY = 40/>
+</Link>
+
+<Label Text = "Blackburrow" X = 120 Y = 335/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oldblackburrow" ToolTip = "Blackburrow">
+	<Rect X = 115 Y = 330 CX = 80 CY = 25/>
+</Link>
+
+<Label Text = "Temple of" X = 20 Y = 340/>
+<Label Text = "Bertoxxulous" X = 15 Y = 355/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "bertoxtemple" ToolTip = "Temple of Bertoxxulous">
+	<Rect X = 0 Y = 335 CX = 90 CY = 40/>
+</Link>
+
+<Label Text = "Korafax" X = 250 Y = 385/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "discord" ToolTip = "Korafax">
+	<Rect X = 245 Y = 360 CX = 120 CY = 50/>
+</Link>
+
+<Label Text = "Citadel of" X = 300 Y = 320/>
+<Label Text = "the Worldslayer" X = 285 Y = 335/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "discordtower" ToolTip = "Citadel of the Worldslayer">
+	<Rect X = 280 Y = 315 CX = 90 CY = 40/>
+</Link>
+
+<Label Text = "Plane of" X = 200 Y = 410/>
+<Label Text = "Time" X = 207 Y = 425/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Planes.xml" ToolTip = "Plane of Time">
+	<Rect X = 180 Y = 405 CX = 85 CY = 80/>
+</Link>

@@ -1,0 +1,141 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Antonica_nwest01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_nwest02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_nwest03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_nwest04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "To Abysmal" X = 30 Y = 220/>
+<Label Text = "Sea" X = 50 Y = 235/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Gates.xml" ToolTip = "To Abysmal Sea">
+	<Rect X = 30 Y = 215 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "To Gorge" X = 445 Y = 410/>
+<Label Text = "of King Xorbb" X = 440 Y = 425/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NEast.xml" ToolTip = "To Gorge of King Xorbb">
+	<Rect X = 435 Y = 400 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Nedaria's" X = 115 Y = 235/>
+<Label Text = "Landing" X = 120 Y = 250/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "nedaria" ToolTip = "To Nedaria's Landing">
+	<Rect X = 115 Y = 230 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Jaggedpine" X = 165 Y = 275/>
+<Label Text = "Forest" X = 180 Y = 290/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "jaggedpine" ToolTip = "Jaggedpine Forest">
+	<Rect X = 165 Y = 270 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "BlackBurrow" X = 220 Y = 340/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "BlackBurrow" ToolTip = "BlackBurrow">
+	<Rect X = 220 Y = 340 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Everfrost Peaks" X = 180 Y = 145/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "everfrost" ToolTip = "Everfrost Peaks">
+	<Rect X = 180 Y = 140 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Halas" X = 187 Y = 110/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "halas" ToolTip = "Halas">
+	<Rect X = 187 Y = 110 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Permafrost" X = 110 Y = 105/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Permafrost" ToolTip = "Permafrost">
+	<Rect X = 110 Y = 105 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Miragul's" X = 85 Y = 142/>
+<Label Text = "Menagerie" X = 85 Y = 157/>
+
+<Label Text = "Surefall" X = 138 Y = 330/>
+<Label Text = "Glade" X = 143 Y = 345/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qrg" ToolTip = "Surefall Glade">
+	<Rect X = 138 Y = 320 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Qeynos" X = 145 Y = 387/>
+<Label Text = "Hills" X = 150 Y = 402/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qeytoqrg" ToolTip = "Qeynos Hills">
+	<Rect X = 145 Y = 382 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "North" X = 114 Y = 418/>
+<Label Text = "Qeynos" X = 109 Y = 433/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qeynos2" ToolTip = "North Qeynos">
+	<Rect X = 109 Y = 418 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "South" X = 110 Y = 464/>
+<Label Text = "Qeynos" X = 105 Y = 479/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qeynos" ToolTip = "South Qeynos">
+	<Rect X = 109 Y = 455 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "To Erud's" X = 20 Y = 410/>
+<Label Text = "Crossing" X = 20 Y = 425/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Odus.xml" ToolTip = "To Erud's Crossing">
+	<Rect X = 20 Y = 405 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Qeynos" X = 185 Y = 463/>
+<Label Text = "Catacombs" X = 180 Y = 478/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qcat" ToolTip = "Qeynos Catacombs">
+	<Rect X = 180 Y = 458 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "West" X = 230 Y = 402/>
+<Label Text = "Karana" X = 225 Y = 417/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qey2hh1" ToolTip = "West Karana">
+	<Rect X = 225 Y = 397 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "North" X = 300 Y = 405/>
+<Label Text = "Karana" X = 295 Y = 420/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "northkarana" ToolTip = "North Karana">
+	<Rect X = 285 Y = 410 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "To South" X = 315 Y = 470/>
+<Label Text = "Karana" X = 320 Y = 485/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SWest.xml" ToolTip = "To South Karana">
+	<Rect X = 315 Y = 465 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "East" X = 377 Y = 386/>
+<Label Text = "Karana" X = 372 Y = 401/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "eastkarana" ToolTip = "East Karana">
+	<Rect X = 372 Y = 381 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "To Highpass" X = 440 Y = 360/>
+<Label Text = "Hold" X = 460 Y = 375/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NCentral.xml" ToolTip = "To Highpass Hold">
+	<Rect X = 440 Y = 355 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "To Blightfire" X = 353 Y = 263/>
+<Label Text = "Moors" X = 373 Y = 278/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NCentral.xml" ToolTip = "To Blightfire Moors">
+	<Rect X = 353 Y = 258 CX = 40 CY = 40/>
+</Link>
+
+
+

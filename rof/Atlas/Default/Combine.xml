@@ -1,0 +1,46 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Castrum01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Castrum02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Castrum03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Castrum04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Silyssar" X = 346 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "silyssar" ToolTip = "Silyssar">
+	<Rect X = 346 Y = 150 CX = 60 CY = 20/>
+</Link>
+
+<Label Text = "Zhisza" X = 95 Y = 165/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "zhisza" ToolTip = "Zhisza">
+	<Rect X = 95 Y = 165 CX = 60 CY = 20/>
+</Link>
+
+<Label Text = "Thalassius" X = 390 Y = 375/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thalassius" ToolTip = "Thalassius">
+	<Rect X = 390 Y = 375 CX = 60 CY = 20/>
+</Link>
+    
+<Label Text = "Jewel of" X = 87 Y = 460/>
+<Label Text = "Atiiki" X = 87 Y = 475/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "atiiki" ToolTip = "Jewel of Atiiki">
+	<Rect X = 87 Y = 460 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Katta" X = 226 Y = 335/>
+<Label Text = "Castrum" X = 226 Y = 350/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "kattacastrum" ToolTip = "Katta Castrum">
+	<Rect X = 226 Y = 335 CX = 60 CY = 40/>
+</Link>

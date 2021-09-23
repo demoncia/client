@@ -1,0 +1,403 @@
+May 15, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Hotfix ***<br>
+<br>
+- Restored the missing armor appearances for several Hero's Forge sets.<br>
+<br>
+<br>
+<br>
+May 14, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Highlights ***<br>
+<br>
+- The four progressive Living Legacy raids -- Infinitely Regenerative Automaton (1 and 2), Eothar the Sand Golem, and the Avatar of Despair -- will be available from May 24th, 2013 to June 17th, 2013.<br>
+- Added melee skill and spell reuse timer groups to the combat abilities window and spell description window. Now conflicts can be seen without having to activate the skills or spells.<br>
+- Added the /stopdisc command, which will cancel any currently running discipline.<br>
+- You can now set options to click through yourself, pets, and mercenaries when clicking on the screen. These settings can be enabled in the Options window.<br>
+- Created the /useitem command, which allows for socials to be created that activate clickable items.  See below for details and how to use it.<br>
+- Retuned several Rain of Fear missions to reduce their overall difficulty. See details below.<br>
+- Increased the time of the Bottle of Adventure III and Bottle of Shared Adventure III to 4 hours.<br>
+<br>
+<br>
+*** Items ***<br>
+<br>
+- Prayer Shawl augments now require a distiller to remove.<br>
+- Classes that do not have the Two-Handed Piercing skill can once again use the rare 2HP items that they could use before the skills were split.<br>
+- Fixed the names of a handful of quest items that had been renamed inappropriately.<br>
+- All stages of the Accursed Grin of Malevolence now share a lore group.<br>
+- All stages of the Wretched Skull Ring now share a lore group.<br>
+- Fixed several items that were displaying incorrect, non-functional spell data. Examples include the Gold Full Plate Bracer and Imbued Cabilis Scale Mask.<br>
+- Removed mana regen from several melee class-only weapons.<br>
+- Weapons from Shadow of Fear are now placeable in real estates.<br>
+- Updated the icons for several hundred items, primarily food and tradeskill. For example, aprons look like aprons instead of leather belts, and hilts look like weapon hilts instead of scepters.<br>
+- Teleport to anchor spells once again work on players outside your group.<br>
+- Increased the time of the Bottle of Adventure III and Bottle of Shared Adventure III to 4 hours.<br>
+- Fixed Ghostrider's Bridle.<br>
+- Token of Shattered Memories, Token of Forgotten Memories, and Quintessence of Shadow now have descriptions and grant the correct stats.<br>
+<br>
+<br>
+*** Quests & Events ***<br>
+<br>
+- The four progressive Living Legacy raids -- Infinitely Regenerative Automaton (1 and 2), Eothar the Sand Golem, and the Avatar of Despair -- will be available from May 24th, 2013 to June 17th, 2013.<br>
+- Velishan's Revenge - Velishan no longer casts Frost Shock on the entire raid.<br>
+- Surviving Xmiticzin - The Terror spell cast by Xmiticzin now also roots the target so they won't run through locked doors.<br>
+- Evantil: Heart of the Oak - Raid - The "an aggressive ant" NPCs no longer exhibit odd behavior.<br>
+- The Return of King Xorbb - Raid and Mission - Reduced the range at which the Soul Stealer drains your power.<br>
+- Defeat Zeixshi-Kar - Mission - Reduced the number of adds leading up to Zeixshi-Kar.<br>
+- Defeat Zeixshi-Kar - Mission - Significantly Lowered Zeixshi-Kar's melee damage and HP.<br>
+- Defeat Zeixshi-Kar - Mission - Reduced the amount of HP or DPS added to Zeixshi-Kar depending on your performance with the adds.<br>
+- Defeat Zeixshi-Kar - Mission - Removed anti-kite mechanics from the adds.<br>
+- Evantil: Heart of the Oak - Mission - Reduced the HP of the Molars.<br>
+- Evantil: Heart of the Oak - Mission - Increased the proc rate of Touch of Flame.<br>
+- A Matter of Life and Death - Mission - Significantly reduced the damage of Scorching Bones<br>
+- The Queen's Decree - Mission - Reduced the health of all NPCs in the mission. Grelleth and her children had the largest reductions.<br>
+- The Queen's Decree - Mission - Reduced the damage of all NPC. Adds had the largest reductions.<br>
+- The Queen's Decree - Mission - Reduced the damage of several abilities used by NPCs.<br>
+- The Queen's Decree - Mission - Halved the number of adds that spawn with Turo, Wuran, Zurel.<br>
+- The Queen's Decree - Mission - Lelri and Lelro are no longer concerned about their distance from each other.<br>
+- The Queen's Decree - Mission - Priests of Decay no longer heal Wuran or Grelleth.<br>
+- The Queen's Decree - Mission - Zurel no longer increases damage or rampages below 25 percent health.<br>
+- The Queen's Decree - Mission - Zurel no longer uses Chain Toss, Slam, or Shoulder Throw.<br>
+- The Queen's Decree - Mission - Grelleth only spawns two undead adds during the final phase. Other adds were removed.<br>
+- The Queen's Decree - Mission - Grelleth no longer uses Crush of Fear.<br>
+- The Queen's Decree - Mission - Fearsome Bellow has been redesigned. It deals moderate damage to the most hated and nearby targets. It also increases Grelleth's melee damage by 10 percent per use.<br>
+<br>
+<br>
+*** Spells ***<br>
+<br>
+- Berserker - Vicious Spiral will generate less hate than before and no longer requires you to be below 90 percent health to use. <br>
+- Cleric - Corrected Shining Rampart and Shining Armor so that they no longer conflict with other damage absorbing disciplines.<br>
+- Monk - Earthforce Discipline now correctly triggers either Impenetrable Effect or Impenetrable Effect II when activated.<br>
+- Monk - Lowered the damage threshold that will trigger Swift Reflexes Block to 18,000.<br>
+- Ranger - Renamed Windblast and Ashcloud Enigma to Boon spells. Their triggered focus spells will now match the spells that you cast initially. <br>
+- Ranger - Increased the damage added by the Freeze and Burn spells that are triggered by Windblast and Ashcloud Boon. <br>
+- Shadowknight - Drape of the Fallen has increased its AC to match Cloak of Spurs.<br>
+- Shaman - Corrected all ranks of Recourse heals (Qirik's, Gotikan's, and Blezon's Recourse) so that they now can co-exist with promised heals. <br>
+- Warrior - Harassing Shout Effect now applies a hate-over-time effect in addition to the hate it generates on casting. The spell's endurance cost was increased by a small amount.<br>
+- Warrior - Increased the damage added by Offensive Discipline and decreased the extra damage you take while it is running.<br>
+- Warrior - Tempestuous Defense Stun should now be much more difficult to resist in PvP.<br>
+- Wizard - Ethereal spells from Rain of Fear and Shadow of Fear are now less efficient.<br>
+- Wizard - Increased the recast time of Ethereal Weave to 36 seconds.<br>
+<br>
+<br>
+*** NPC ***<br>
+<br>
+- The wandering Lich of Miragul in the caves of Everfrost is no longer hostile.<br>
+- Lessened Mata Muram's undue influence over the world by removing Discordian appearances from non-Discordian creatures and objects across Norrath.<br>
+- Fixed the spelling errors in the names of goblin aggressors in Warslik's Woods.<br>
+- The Dark Lady will no longer display a pop-up to everyone in Plane of Shadow.<br>
+- Many NPCs that were missing apostrophes in their names will now display them correctly.<br>
+<br>
+<br>
+*** AA ***<br>
+<br>
+- Berserker - Frenzied Axe now triggers a Two-Handed Slashing attack to keep it consistent with other abilities.<br>
+- Berserker - Juggernaut Surge and Savage Spirit now stack correctly.<br>
+- Enchanter - Ethereal Manipulation will now only focus Wizards' Ethereal spell lines as originally intended.<br>
+- Necromancer and Shadowknight - Rest the Dead is now correctly labeled as a Class ability.<br>
+<br>
+<br>
+*** Miscellaneous ***<br>
+<br>
+- Improved performance in several zones.<br>
+- The Guild Lobby map now includes the area leading to the Neighborhoods.<br>
+- Campfires are now fully functional in Plane of Shadow.<br>
+- Added the /stopdisc command, which will cancel any currently running discipline.<br>
+- Fixed a space issue in your name when you had a title that started with a comma.<br>
+- When claiming an item that can be claimed on more than one character, it will no longer incorrectly say that the item can only be claimed once per account.<br>
+- Parcels that contain only money can now be retrieved even if your inventory is completely full.<br>
+- Items that have evolved to level 16 or higher will now properly display when linked in chat.<br>
+- Created the /useitem <slot> [subindex] command, which allows for socials to be created that activate clickable items.  This will activate the item in an inventory slot number.  If that item is a container, then it will also allow for specifying which slot in that container to use.<br>
+- You can now set options to click through yourself, pets, and mercenaries when clicking on the screen. These settings can be enabled in the Options window.<br>
+<br>
+<br>
+*** UI ***<br>
+<br>
+- Fixed some spacing issues and typos in the atlas for Luclin.<br>
+- Added melee skill and spell reuse timer groups to the UI. For melee skills, you can see the timer groups in a new column in the combat abilities window. For spells, this information will now appear in the spell description window.<br>
+<br>
+- Changed -<br>
+EQUI_Animations.xml<br>
+EQUI_CombatSkillsSelectWindow.xml<br>
+EQUI_OptionsWindow.xml<br>
+<br>
+<br>
+*** Already Patched *** <br>
+<br>
+- Updated NPC damage, health, and experience values for many non-boss NPCs in Shadow of Fear raids.<br>
+<br>
+<br>
+<br>
+- The EverQuest Team<br>
+<br>
+<br>
+<br>
+April 24, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Items ***<br>
+<br>
+- Shadow of Fear bows can now cast Prismatic Ward properly. <br>
+- Berserker chest armor now has the proper focus effect name: Sundering Discipline Quickening. <br>
+- Brell's Blessed Chromatic Strike and Brell's Sacred Chromatic Strike now trigger a separate mana return effect.<br>
+<br>
+<br>
+*** Quests & Events ***<br>
+<br>
+- Prove Your Worth, Slave - Task updates should now be given to all players in the group when stealing fisherman bait.<br>
+- Hold Nothing Back - Task updates should now be given to all players in the group when lighting Shissar on fire, placing cursed weapons in chests, and throwing relic bundles to cultists.<br>
+- Ready The Killing Blow - Task updates should now be given to all players in the group when collecting armor in the gladiator training grounds, and using the tumor on scientists.<br>
+- How Puzzling All These Changes Are - The task element for killing shissar guards and rebel informants now directs you to the correct tunnels.<br>
+- Dial L for Luclin - If you do not get the update for the ritual, the quest will now reset to allow speaking to Aten Ha Ra again.<br>
+<br>
+<br>
+*** Spells ***<br>
+<br>
+- Berserker - Modified Augmented Frenzy so that it only augments the Frenzy skill rather than every skill.  Increased the base recast time to 2 minutes.  Lowered the damage dealt by Augmented Frenzy Strike.  Corrected the description of Augmented Frenzy Effect. <br>
+- Cleric - Corrected the description of Shining Bastion. <br>
+<br>
+<br>
+*** NPC ***<br>
+<br>
+- Chelsith Reborn - Turtles on the beach are no longer immune to snare effects.<br>
+- New, powerful rare challengers await in Chelsith Reborn. You might discover them if you seek out defeated gladiators, experimental mistakes, and worthy contenders.  You will find that they are unusually challenging but unusually rewarding.<br>
+- Fixed a problem that could cause Bashermaker to spawn under the world in Mesa.<br>
+<br>
+<br>
+*** AA ***<br>
+<br>
+- Berserker - Savage Spirit should no longer cause Haste buffs to fade.<br>
+- Necromancer - Corrected a description error for Cascade of Decay. <br>
+- Wizard - Arcane Destruction should now correctly block up to 200,000hp of incoming damage before fading. <br>
+<br>
+<br>
+*** Tradeskills ***<br>
+<br>
+- All new shawl recipes now correctly require a Beautiful Tiger Hide as per their descriptions.<br>
+<br>
+<br>
+- The EverQuest Team<br>
+<br>
+<br>
+<br>
+April 19, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Hotfix ***<br>
+<br>
+- Hold Nothing Back - Corrected a case in this Chelsith Reborn quest where the Living Flame item was not giving proper quest credit while in a group. <br>
+- Dispelling the Shadows (Group and Raid) - Added a check to prevent a possible reset if an NPC died too early. <br>
+<br>
+<br>
+- The EverQuest Team<br>
+<br>
+<br>
+<br>
+April 17, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Highlights ***<br>
+<br>
+- Shadow of Fear, the second chapter in Rain of Fear, is now available to everyone who has Rain of Fear!<br>
+- - Explore two new zones: Chelsith Reborn, and the mysterious Plane of Shadow, with new quests, missions, and raids!<br>
+- - Every class has new Alternate Advancement abilities, spells, or disciplines available!<br>
+<br>
+- All weapon and shield ornamentations that are purely cosmetic (augments that do not offer stats or spell effects) no longer require a solvent to remove.<br>
+- Hero's Forge robe augments can now be used on any leather armor.<br>
+- Created a new skill, Two-Handed Piercing, and renamed the existing Piercing skill to One-Handed Piercing.  All existing characters will be granted equivalent skills in both types of piercing (where applicable to their class).<br>
+<br>
+<br>
+*** Housing Improvements ***<br>
+<br>
+- House yards and interiors can now hold more items.<br>
+- - All yards have had their capacity increased by 30.<br>
+- - All one room houses can now hold 300 items.<br>
+- - All three room houses can now hold 500 items.<br>
+- - The Hermit's Hideaway now holds 400 items.<br>
+- - Evantil's Abode now holds 600 items.<br>
+- Greatly reduced the size and weight of houses when placed in your inventory.<br>
+- Added a /leaverealestate command that will exit a real estate zone. This is also available in the EQ Menu under Real Estate.<br>
+- Keep an eye on the Marketplace for new updates to housing items.  Many of them will be changing quantities (increasing) and prices (decreasing) soon!<br>
+<br>
+<br>
+*** Items ***<br>
+<br>
+- All weapon and shield ornamentations that are purely cosmetic (augments that do not offer stats or spell effects) no longer require a solvent to remove.<br>
+- The mana recourse effects on all of Brell's prayer shawls have been increased in power, but now should only benefit the caster once per spell. <br>
+- Rust-Tinged Box of Fear now states what class it is for in the Lore tab description.<br>
+- Removed Berserkers from Warden's Stone of Enhancement since they can't use 1h weapons.<br>
+- Freedom of Dexterity now has added backstab damage.<br>
+- Fear Fruit now properly causes damage when eating it.<br>
+- Hero's Forge robe augments can now be used on any leather armor.<br>
+- Increased the mana, spell damage, and clairvoyance on caster 2h weapons from Rain of Fear. Removed attack, combat effects, and strikethrough from caster 1h and 2h weapons.<br>
+- Changed the way the berserker breastplate clicks Chaotic Frenzy and Boundless Frenzy work. The procs are now much harder to resist, but they have a limit of 10 procs as they were originally intended to and occur less often.<br>
+- Added labels to many existing items that were part of lore groups but did not indicate so, such as Drops of Focused Sunlight and Stones of Power.<br>
+- Fixed a spelling error in the "Title Pack: Animal Lover" item.<br>
+- 2-handed piercing bonuses have been added to Cleave. Beginning with Cleave VII, 2-handed piercing has replaced Kick when Cleave has a damage added bonus. This is a short-term fix. We are working on a long term resolution for a future release.<br>
+- Corrected several items that could sometimes fail to activate their spell effects due to timer sharing. Examples include the 'Vicious Rabbit' and the potion 'Kilva's Blistering Flesh'.<br>
+- Clarified the tribute description for the 'Trophy of the Garden Path'.<br>
+- Yunaizarn's Fang can now stun enemies up to level 100.<br>
+<br>
+<br>
+*** Tradeskills ***<br>
+<br>
+- Kerst Frostrift and his companions have created what they call the "New Tanaan Merchant Alliance" in the Plane of Knowledge.  He might have some particularly interesting news for you if you have completed a certain shawl...<br>
+- The book "Fear Powered Fletching" now lists how to create Terror Crossbows and Terror Crossbow Bolts.<br>
+<br>
+<br>
+*** Quests & Events ***<br>
+<br>
+- Piestro's Day Off - Made significant tuning changes to the mission:<br>
+- - Enemies will no longer repop in the mission.<br>
+- - Removed most passive abilities from the template characters and replaced them with activated abilities.<br>
+- - Lowered the recast timers of several very long abilities so they can be used much more often.<br>
+- - Increased template character power relevant to the template class.  Warriors now have higher defense and AC.  Monks and Rogues have higher melee damage output and avoidance.  Casters have larger mana pools and regenerate mana faster.<br>
+- - Added a dagger to the rogue template so that they can properly backstab.<br>
+- - Most NPCs can now be snared, mesmerized, and otherwise crowd controlled.<br>
+- - Reduced the HP, damage, and maximum level of many NPCs that could previously overwhelm the party.<br>
+- - Reduced the spell resistance for all NPCs.<br>
+- - Changed the maximum number of any particular template character to 1.  Each player must now play a different class.<br>
+- - Removed the ability to bring Mercenaries into the instance.<br>
+- The Dynamic Zones for Grelleth's Palace and Shard's Landing will now allow players to be added after the raid event has been won.<br>
+- Guardian of the Gate - Modified the event so its difficulty is closer to other events in its tier:<br>
+- - Reduced the amount of damage Findlewill and Mordaur do.<br>
+- - Findlewill will only choose one target to cast a fireball on.<br>
+- - Fireballs move a bit more slowly now, giving you a better chance to run away! <br>
+- The Return of King Xorbb - Raid and Mission - Several changes were made to prevent potential zone crashes: Brantun no longer has the power to crystallize his opponents, and the Soul Stealer no longer uses an aura to steal power.<br>
+- Sheriff Knotter Botter is continuing his hiatus while the "Big Gnomes, Big Problems" mission is addressed.  Access to all 14th Anniversary missions has been extended to June 26th. <br>
+<br>
+<br>
+*** Spells ***<br>
+<br>
+- All player spells and abilities that affected piercing or two-handed attacks have had Two-Handed Piercing added where appropriate.<br>
+- Ranger - Flusterbolt and Blusterbolt are now physical resist abilities and should land far more reliably.<br>
+- Spells that cure detrimental effects, such as Splash of Sanctification and Radiant Cure, will no longer remove charm from pets owned by players.<br>
+- Beastlord, Magician, and Necromancer pets (level 96-100) have had their base HP and AC reduced slightly.  Reduced the AC and HP advantage given to pets with the most basic focus (Enhanced Minion VII) and adjusted the later ranks accordingly.<br>
+- All existing player-castable pet block buffs have had damage caps added to them.  These values should easily exceed damage from group content of the appropriate eras: <br>
+- - Set a damage cap per hit on Ward of Calliav of 11747. <br>
+- - Set a damage cap per hit on Guard of Calliav of 12922. <br>
+- - Set a damage cap per hit on Protection of Calliav of 14214. <br>
+- - Set a damage cap per hit on Bulwark of Calliav and Feral Guard of 15635. <br>
+- - Set a damage cap per hit on Mammoth-Hide Guard of 17198. <br>
+- - Set a damage cap per hit on Aegis of Calliav of 17198. <br>
+- - Set a damage cap per hit on Dragonscale Guard of 18918. <br>
+- - Set a damage cap per hit on Bulwark of Tri'Qaras of 18017/18467/18929. <br>
+- - Set a damage cap per hit on Aegis of Kildrukaun of 18918. <br>
+- - Set a damage cap per hit on Spectral Rampart of 19580. <br>
+- - Set a damage cap per hit on Beastwood Rampart of 20265. <br>
+- - Set a damage cap per hit on Beastwood Ward of 22902. <br>
+<br>
+<br>
+*** AA ***<br>
+<br>
+- All AAs that affected piercing or two-handed attacks have had Two-Handed Piercing added where appropriate.<br>
+- Fixed an issue where using a Glyph AA would cause your current HP to get out of synch with the server.<br>
+- AAs such as Mystical Shield that allow you to innately resist spells will no longer block beneficial spells.<br>
+- Nature's Bounty will now allow for a proper second forage in zones where there are scripted forage events.<br>
+- Berserker - Dying Blow will now correctly trigger when you die.<br>
+- Cleric - Corrected an issue with Touch of the Divine which could have prevented it from properly healing the player it landed on.<br>
+- Monk - Techniques of Master Wu will now execute only the skill that triggered it, and can now chain a few extra times.<br>
+<br>
+<br>
+*** Achievements ***<br>
+<br>
+- Existing Rain of Fear Collection Achievements have been moved underneath the Rain of Fear expansion header in the Achievements window. This should not affect player progression on those achievements.<br>
+<br>
+<br>
+*** Miscellaneous ***<br>
+<br>
+- It is now possible to forage while on a mount.<br>
+- Added the 2H Piercing skill to the game, and renamed Piercing to 1H Piercing.<br>
+- Fixed an issue that would cause certain archery attacks to miss when accuracy was too high.<br>
+- Fixed multiple instances of abilities and spells with a percent chance to happen missing out on 1% of that chance.<br>
+- Adjusted the difficulty of learning Begging, Intimidate, and Disarm.  They should be much easier to learn.<br>
+- - Intimidate can now gain skill on a success or a failure.<br>
+- - Disarm can now be attempted on enemies that are not holding weapons.<br>
+- Fixed an issue where ground spawns (such as collection items) could spawn in the air.<br>
+<br>
+<br>
+*** UI ***<br>
+<br>
+- Added more appropriate minimum sizes to some of the windows.<br>
+- Added the ability to pull up the bazaar search (Shift+Ctrl+Left Click) and barter search (Shift+Alt+Left Click) windows from multiple different locations like inventory slots or item links.<br>
+- Changed the selections in the Loot Nodrop confirmation pulldown. "Sometimes" is now named "Not Usable". Additionally, updated /lootnodrop to now accept "usable".<br>
+- Added check boxes to filter mercenaries and pets in the Tracking Window that tie in to the existing All, Group or None filters.<br>
+- Converted all of the dragitem TGA files to the DDS format to reduce memory requirements.  If you maintain a UI that uses custom images, we suggest you define these images in another XML file and add the name of that file to EQUI.xml instead of adding them directly to EQUI_Animations.xml.<br>
+- Corrected many icons that previously bled into each other.<br>
+- Added many more usable icons to the game.<br>
+- Converted the location of where we define a window as "Escapable" from the code to the XML for that window. There is now a new XML tag that we recognize "Escapable". By default, all windows that don't have this tag will default to closing when pressing 'Esc'.<br>
+- Added the ability to set "'Esc' to Close" to the default context menu for all windows.<br>
+- Changed defaults.ini to force many windows to not be escapable by default to address clients using custom UI's that haven't been updated.<br>
+- The SC icon will now flash and broadcast a message when an item goes on a flash sale. Clicking the SC button will take you to that item.<br>
+<br>
+- Changed -<br>
+EQUI_ActionsWindow.xml<br>
+EQUI_AggroMeterWnd.xml<br>
+EQUI_AlertStackWnd.xml<br>
+EQUI_Animations.xml<br>
+EQUI_AuraWnd.xml<br>
+EQUI_BreathWindow.xml<br>
+EQUI_BuffWindow.xml<br>
+EQUI_CastingWindow.xml<br>
+EQUI_CastSpellWnd.xml<br>
+EQUI_ChatWindow.xml<br>
+EQUI_CombatAbilityWnd.xml<br>
+EQUI_CompassWnd.xml<br>
+EQUI_EQMainWnd.xml<br>
+EQUI_ExtendedTargetWindow.xml<br>
+EQUI_GroupMentorWnd.xml<br>
+EQUI_GroupWindow.xml<br>
+EQUI_HotButtonWnd.xml<br>
+EQUI_LargeDialogWnd.xml<br>
+EQUI_MailCompositionWindow.xml<br>
+EQUI_MercenaryManageWnd.xml<br>
+EQUI_MusicPlayerWnd.xml<br>
+EQUI_OptionsWindow.xml<br>
+EQUI_PetInfoWindow.xml<br>
+EQUI_PlayerWindow.xml<br>
+EQUI_PotionBeltWnd.xml<br>
+EQUI_ShortDurationBuffWindow.xml<br>
+EQUI_TargetOfTargetWindow.xml<br>
+EQUI_TargetWindow.xml<br>
+EQUI_Templates.xml<br>
+EQUI_TrackingWnd.xml<br>
+SIDL.xml<br>
+<br>
+*** Previously Updated *** <br>
+<br>
+- Gearbie Gogglenoggin will now offer the "Infiltrating the Guardian (Level 90)" mission to adventurers level 95 or higher.<br>
+- Assistant Gerta will now offer the "Short Circuit (Level 90)" quest to adventurers level 95 or higher. <br>
+<br>
+<br>
+- The EverQuest Team<br>
+<br>
+<br>
+<br>
+March 27, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Hotfix ***<br>
+<br>
+- I'm trying to draw a pretty picture of the Guild Lobby, but you keep messing it up. I made you much easier to draw now! - Bristlebane<br>
+- Sheriff Knotter Botter has finished reformulating his plans and has returned to Steamfont Mountains to deal with all those giant skeletons! You can once again participate in the "Ogres at the Gates" and "Big Gnomes, Big Problems" events.<br>
+<br>
+<br>
+<br>
+March 14, 2013<br>
+_____________________<br>
+<br>
+<br>
+*** Hotfix ***<br>
+<br>
+- Set the default option for looting no-drop items to require confirmation to avoid unexpected behavior.<br>
+- Corrected a sporadic zone crash.<br>
+<br>
+<br>

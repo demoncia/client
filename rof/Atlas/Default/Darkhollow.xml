@@ -1,0 +1,67 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Darkhollow_01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Darkhollow_02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Darkhollow_03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Darkhollow_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+
+<Label Text = "To Nektulos" X = 425 Y = 10/>
+<Label Text = "Forest" X = 435 Y = 25/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NEast.xml" ToolTip = "To Nektulos Forest">
+	<Rect X = 425 Y = 10 CX = 40 CY = 15/>
+</Link>
+
+
+<Label Text = "Corathus" X = 390 Y = 110/>
+<Label Text = "Creep" X = 390 Y = 125/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "corathus" ToolTip = "Corathus Creep">
+	<Rect X = 390 Y = 110 CX = 40 CY = 25/>
+</Link>
+
+<Label Text = "Undershore" X = 270 Y = 210/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "eastkorlach" ToolTip = "Undershore">
+	<Rect X = 270 Y = 210 CX = 60 CY = 15/>
+</Link>
+
+
+<Label Text = "The Drachnid" X = 10 Y = 380/>
+<Label Text = "Hive" X = 35 Y = 395/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "drachnidhive" ToolTip = "The Drachnid Hive">
+	<Rect X = 10 Y = 380 CX = 60 CY = 30/>
+</Link>
+
+
+<Label Text = "Dreadspire" X = 170 Y = 240/>
+<Label Text = "Keep" X = 185 Y = 255/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "dreadspire" ToolTip = "Dreadspire Keep">
+	<Rect X = 170 Y = 240 CX = 60 CY = 25/>
+</Link>
+
+
+<Label Text = "Stoneroot" X = 220 Y = 430/>
+<Label Text = "Falls" X = 235 Y = 445/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "westkorlach" ToolTip = "Stoneroot Falls">
+	<Rect X = 220 Y = 430 CX = 40 CY = 25/>
+</Link>
+
+
+<Label Text = "Ruins of" X = 410 Y = 350/>
+<Label Text = "Illsalin" X = 415 Y = 365/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "illsalin" ToolTip = "Ruins of Illsalin">
+	<Rect X = 410 Y = 350 CX = 40 CY = 25/>
+</Link>
+

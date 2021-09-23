@@ -1,0 +1,151 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Planes_01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Tranquility" X = 230 Y = 260/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "potranquility" ToolTip = "Tranquility">
+	<Rect X = 230 Y = 260 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Knowledge" X = 320 Y = 310/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "poknowledge" ToolTip = "Knowledge">
+	<Rect X = 320 Y = 310 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Bazaar" X = 400 Y = 285/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "bazaar" ToolTip = "Bazaar">
+	<Rect X = 400 Y = 285 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "To Shadowhaven" X = 430 Y = 250/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin_Underground.xml" ToolTip = "To Shadowhaven">
+	<Rect X = 430 Y = 250 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "To Nexus" X = 450 Y = 280/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Luclin_Underground.xml" ToolTip = "To Nexus">
+	<Rect X = 450 Y = 280 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Drunder" X = 180 Y = 380/>
+<Label Text = "Fortress of Zek" X = 160 Y = 395/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "potactics" ToolTip = "Fortress of Zek">
+	<Rect X = 160 Y = 375 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Water" X = 70 Y = 430/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "powater" ToolTip = "Water">
+	<Rect X = 70 Y = 430 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Ragrax" X = 410 Y = 410/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "poearthb" ToolTip = "Ragrax">
+	<Rect X = 410 Y = 410 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Earth" X = 410 Y = 450/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "poeartha" ToolTip = "Earth">
+	<Rect X = 410 Y = 450 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Bastion of" X = 300 Y = 345/>
+<Label Text = "Thunder" X = 303 Y = 360/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "bothunder" ToolTip = "Bastion of Thunder">
+	<Rect X = 300 Y = 340 CX = 40 CY = 30/>
+</Link>
+
+<Label Text = "Storms" X = 300 Y = 405/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "postorms" ToolTip = "Storms">
+	<Rect X = 300 Y = 405 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Innovation" X = 415 Y = 340/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "poinnovation" ToolTip = "Innovation">
+	<Rect X = 415 Y = 340 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Tower of" X = 400 Y = 180/>
+<Label Text = "Solusek Ro" X = 390 Y = 195/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "solrotower" ToolTip = "Tower of Solusek Ro">
+	<Rect X = 390 Y = 175 CX = 55 CY = 40/>
+</Link>
+
+<Label Text = "Lair of" X = 300 Y = 140/>
+<Label Text = "Terris Thule" X = 290 Y = 155/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "nightmareb" ToolTip = "Lair of Terris Thule">
+	<Rect X = 290 Y = 135 CX = 55 CY = 40/>
+</Link>
+
+<Label Text = "Nightmare" X = 295 Y = 180/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "ponightmare" ToolTip = "Nightmare">
+	<Rect X = 295 Y = 180 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Fire" X = 400 Y = 90/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "pofire" ToolTip = "Fire">
+	<Rect X = 400 Y = 90 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Prison of" X = 240 Y = 20/>
+<Label Text = "the Forsaken" X = 235 Y = 35/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "potimeb" ToolTip = "Prison of the Forsaken">
+	<Rect X = 235 Y = 20 CX = 40 CY = 30/>
+</Link>
+
+<Label Text = "Time" X = 247 Y = 80/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "potimea" ToolTip = "Time">
+	<Rect X = 247 Y = 80 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Air" X = 115 Y = 70/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "poair" ToolTip = "Air">
+	<Rect X = 115 Y = 70 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Valor" X = 195 Y = 180/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "povalor" ToolTip = "Valor">
+	<Rect X = 195 Y = 180 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Halls of" X = 190 Y = 140/>
+<Label Text = "Honor" X = 195 Y = 155/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "hohonora" ToolTip = "Halls of Honor">
+	<Rect X = 190 Y = 135 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Disease" X = 60 Y = 210/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "podisease" ToolTip = "Disease">
+	<Rect X = 60 Y = 210 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Crypt of" X = 60 Y = 170/>
+<Label Text = "Decay" X = 65 Y = 185/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "codecay" ToolTip = "Crypt of Decay">
+	<Rect X = 60 Y = 175 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Justice" X = 55 Y = 315/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "pojustice" ToolTip = "Justice">
+	<Rect X = 55 Y = 315 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Torment" X = 155 Y = 300/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "potorment" ToolTip = "Torment">
+	<Rect X = 155 Y = 300 CX = 40 CY = 15/>
+</Link>

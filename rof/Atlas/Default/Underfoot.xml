@@ -1,0 +1,93 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 256 CY = 256 />
+<Image File = "Underfoot01.tga">
+   <Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Underfoot02.tga">
+   <Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Underfoot03.tga">
+   <Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Underfoot04.tga">
+   <Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+   <Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+   <Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+<Label Text = "The" X = 280 Y = 480/>
+<Label Text = "Hole" X = 280 Y = 495/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Odus.xml" ToolTip = "The Hole">
+   <Rect X = 260 Y = 475 CX = 60 CY = 60/>
+</Link>
+
+<Label Text = "Brell's" X = 280 Y = 370/>
+<Label Text = "Rest" X = 285 Y = 385/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "brellsrest" ToolTip = "Brell's Rest">
+   <Rect X = 240 Y = 345 CX = 100 CY = 70/>
+</Link>
+
+<Label Text = "Cooling" X = 165 Y = 425/>
+<Label Text = "Chamber" X = 160 Y = 440/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "coolingchamber" ToolTip = "Cooling Chamber">
+   <Rect X = 140 Y = 400 CX = 60 CY = 80/>
+</Link>
+
+<Label Text = "Pellucid" X = 60 Y = 390/>
+<Label Text = "Grotto" X = 65 Y = 405/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "pellucid" ToolTip = "Pellucid Grotto">
+   <Rect X = 35 Y = 365 CX = 85 CY = 120/>
+</Link>
+
+<Label Text = "Underquarry" X = 380 Y = 415/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "underquarry" ToolTip = "Underquarry">
+   <Rect X = 360 Y = 405 CX = 70 CY = 50/>
+</Link>
+
+<Label Text = "Foundation" X = 400 Y = 320/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "foundation" ToolTip = "Foundation">
+   <Rect X = 400 Y = 300 CX = 80 CY = 60/>
+</Link>
+
+<Label Text = "Fungal Forest" X = 30 Y = 285/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "fungalforest" ToolTip = "Fungal Forest">
+   <Rect X = 20 Y = 260 CX = 100 CY = 80/>
+</Link>
+
+<Label Text = "Arthicrex" X = 50 Y = 180/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "arthicrex" ToolTip = "Arthicrex">
+   <Rect X = 60 Y = 160 CX = 60 CY = 60/>
+</Link>
+
+<Label Text = "Kernagir" X = 305 Y = 270/>
+<Label Text = "The Shining City" X = 280 Y = 285/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "shiningcity" ToolTip = "Kernagir, The Shining City">
+   <Rect X = 240 Y = 230 CX = 135 CY = 90/>
+</Link>
+
+<Label Text = "Brell's Temple" X = 280 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "brellstemple" ToolTip = "Brell's Temple">
+   <Rect X = 230 Y = 110 CX = 135 CY = 70/>
+</Link>
+
+<Label Text = "Lichen Creep" X = 85 Y = 80/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "lichencreep" ToolTip = "Lichen Creep">
+   <Rect X = 70 Y = 70 CX = 130 CY = 80/>
+</Link>
+
+<Label Text = "Volska's Husk" X = 415 Y = 240/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "stonesnake" ToolTip = "Volska's Husk">
+   <Rect X = 390 Y = 160 CX = 120 CY = 100/>
+</Link>
+
+<Label Text = "Corathus Creep" X = 75 Y = 25/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Darkhollow.xml" ToolTip = "Corathus Creep">
+   <Rect X = 70 Y = 20 CX = 100 CY = 35/>
+</Link>
+
+<Label Text = "Convorteum" X = 350 Y = 25/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "convorteum" ToolTip = "Convorteum">
+   <Rect X = 300 Y = 25 CX = 150 CY = 80/>
+</Link>

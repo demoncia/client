@@ -1,0 +1,91 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 256 CY = 256 />
+<Image File = "houseofthule01.tga">
+   <Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "houseofthule02.tga">
+   <Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "houseofthule03.tga">
+   <Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "houseofthule04.tga">
+   <Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+   <Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+   <Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "Alkabor's Nightmare" X = 75 Y = 70/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "alkabormare" ToolTip = "Alkabor's Nightmare">
+   <Rect X = 15 Y = 65 CX = 195 CY = 95/>
+</Link>
+
+<Label Text = "Somnium" X = 250 Y = 60/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "somnium" ToolTip = "Somnium">
+   <Rect X = 250 Y = 25 CX = 55 CY = 65/>
+</Link>
+
+<Label Text = "Morell's Castle" X = 235 Y = 135/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "morellcastle" ToolTip = "Morell's Castle">
+   <Rect X = 225 Y = 95 CX = 95 CY = 80/>
+</Link>
+
+<Label Text = "Fear Itself" X = 395 Y = 165/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thuledream" ToolTip = "Fear Itself">
+   <Rect X = 370 Y = 100 CX = 100 CY = 80/>
+</Link>
+
+<Label Text = "Phylactery" X = 40 Y = 240/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "phylactery" ToolTip = "Phylactery">
+   <Rect X = 30 Y = 185 CX = 70 CY = 70/>
+</Link>
+
+<Label Text = "Miragul's" X = 145 Y = 220/>
+<Label Text = "Nightmare" X = 140 Y = 235/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "miragulmare" ToolTip = "Miragul's Nightmare">
+   <Rect X = 115 Y = 180 CX = 105 CY = 80/>
+</Link>
+
+<Label Text = "Upper Floors" X = 245 Y = 230/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thulehouse2" ToolTip = "Upper Floors">
+   <Rect X = 235 Y = 190 CX = 90 CY = 55/>
+</Link>
+
+<Label Text = "The Grounds" X = 75 Y = 310/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "housegarden" ToolTip = "The Grounds">
+   <Rect X = 30 Y = 260 CX = 150 CY = 85/>
+</Link>
+
+<Label Text = "House of Thule" X = 240 Y = 320/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thulehouse1" ToolTip = "House of Thule">
+   <Rect X = 190 Y = 260 CX = 180 CY = 80/>
+</Link>
+
+<Label Text = "Erudin" X = 415 Y = 275/>
+<Label Text = "Burning" X = 410 Y = 290/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "fallen" ToolTip = "Erudin Burning">
+   <Rect X = 395 Y = 195 CX = 70 CY = 115/>
+</Link>
+
+<Label Text = "The Well" X = 85 Y = 420/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "well" ToolTip = "The Well">
+   <Rect X = 80 Y = 355 CX = 60 CY = 80/>
+</Link>
+
+<Label Text = "Feerrott" X = 250 Y = 440/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "feerrott2" ToolTip = "Feerrott">
+   <Rect X = 215 Y = 355 CX = 120 CY = 105/>
+</Link>
+
+<Label Text = "The Library" X = 400 Y = 405/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "thulelibrary" ToolTip = "The Library">
+   <Rect X = 380 Y = 320 CX = 100 CY = 100/>
+</Link>
+
+<Label Text = "To Innothule" X = 380 Y = 450/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SWest.xml" ToolTip = "To Innothule">
+   <Rect X = 370 Y = 450 CX = 80 CY = 20/>
+</Link>

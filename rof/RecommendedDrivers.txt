@@ -1,0 +1,17 @@
+; Video card IDs and driver pairs are listed below
+; in one of the following formats:
+;
+; VendorID website
+; {
+;   CardIDRangeStart - CardIDRangeEnd { Driver98ME2KXP }
+;   CardIDRangeStart - CardIDRangeEnd { Driver98ME, Driver2KXP }
+;   CardIDRangeStart - CardIDRangeEnd { Driver98, DriverME, Driver2K, DriverXP }
+;   CardID                            { Driver98ME2KXP }
+;   CardID                            { Driver98ME, Driver2KXP }
+;   CardID                            { Driver98, DriverME, Driver2K, DriverXP }
+; }
+;
+; EverQuest will search through this list to determine if your
+; current drivers are greater than or equal to the recommended
+; ones.
+;

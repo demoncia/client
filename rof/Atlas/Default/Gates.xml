@@ -1,0 +1,110 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Gates01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Gates02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Gates03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Gates04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "To Nedaria's" X = 0 Y = 450/>
+<Label Text = "Landing" X = 10 Y = 465/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NWest.xml" ToolTip = "To Nedaria's Landing">
+	<Rect X = 0 Y = 445 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Abysmal" X = 10 Y = 380/>
+<Label Text = "Sea" X = 20 Y = 395/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Abysmal" ToolTip = "Abysmal Sea">
+	<Rect X = 10 Y = 375 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Natimbi" X = 70 Y = 310/>
+<Label Text = "Shores" X = 75 Y = 325/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "natimbi" ToolTip = "Natimbi Shores">
+	<Rect X = 70 Y = 315 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Qinimi" X = 200 Y = 330/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qinimi" ToolTip = "Qinimi">
+	<Rect X = 200 Y = 330 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Ferubi" X = 210 Y = 280/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "ferubi" ToolTip = "Ferubi">
+	<Rect X = 210 Y = 280 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Riwwi" X = 170 Y = 240/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "riwwi" ToolTip = "Riwwi">
+	<Rect X = 170 Y = 240 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Barindu" X = 270 Y = 250/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "barindu" ToolTip = "Barindu">
+	<Rect X = 270 Y = 250 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Sewers" X = 340 Y = 290/>
+
+<Label Text = "Vxed" X = 410 Y = 200/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "vxed" ToolTip = "Vxed">
+	<Rect X = 410 Y = 200 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Tipt" X = 320 Y = 200/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "tipt" ToolTip = "Tipt">
+	<Rect X = 320 Y = 200 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Kod'Taz" X = 320 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "kodtaz" ToolTip = "Kod'Taz">
+	<Rect X = 320 Y = 150 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Ikkinz" X = 240 Y = 160/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "ikkinz" ToolTip = "Ikkinz">
+	<Rect X = 240 Y = 160 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Yxtta" X = 410 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Yxtta" ToolTip = "Yxtta">
+	<Rect X = 410 Y = 150 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Uqua" X = 480 Y = 150/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Uqua" ToolTip = "Uqua">
+	<Rect X = 480 Y = 150 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Qvic" X = 390 Y = 110/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Qvic" ToolTip = "Qvic">
+	<Rect X = 390 Y = 110 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Inktu'ta" X = 300 Y = 110/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Inktuta" ToolTip = "Inktu'ta">
+	<Rect X = 300 Y = 110 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Txevu" X = 370 Y = 70/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Txevu" ToolTip = "Txevu">
+	<Rect X = 370 Y = 70 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Tacvi" X = 330 Y = 40/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Tacvi" ToolTip = "Tacvi">
+	<Rect X = 330 Y = 40 CX = 40 CY = 15/>
+</Link>
+

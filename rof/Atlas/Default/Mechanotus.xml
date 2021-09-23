@@ -1,0 +1,61 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Mechanotus01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Mechanotus02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Mechanotus03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Mechanotus04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Label Text = "S.H.I.P." X = 95 Y = 145/>
+<Label Text = "Workshop" X = 85 Y = 160/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "shipworkshop" ToolTip = "S.H.I.P Workshop">
+	<Rect X = 85 Y = 145 CX = 65 CY = 55/>
+</Link>
+
+<Label Text = "Steam" X = 221 Y = 155/>
+<Label Text = "Factory" X = 220 Y = 170/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "steamfactory" ToolTip = "Steam Factory">
+	<Rect X = 220 Y = 155 CX = 65 CY = 55/>
+</Link>
+
+<Label Text = "Fortress" X = 250 Y = 218/>
+<Label Text = "Mechanotus" X = 240 Y = 233/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "mechanotus" ToolTip = "Fortress Mechanotus">
+	<Rect X = 240 Y = 218 CX = 65 CY = 55/>
+</Link>
+
+<Label Text = "Meldrath's" X = 275 Y = 105/>
+<Label Text = "Majestic Mansion" X = 255 Y = 120/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "mansion" ToolTip = "Meldrath's Majestic Mansion">
+	<Rect X = 255 Y = 105 CX = 85 CY = 55/>
+</Link>
+
+<Label Text = "Gyrospire" X = 130 Y = 315/>
+<Label Text = "Beza" X = 145 Y = 330/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "gyrospireb" ToolTip = "Gyrospire Beza">
+	<Rect X = 130 Y = 315 CX = 65 CY = 55/>
+</Link>
+
+<Label Text = "Gyrospire" X = 323 Y = 350/>
+<Label Text = "Zeka" X = 338 Y = 365/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "gyrospirez" ToolTip = "Gyrospire Zeka">
+	<Rect X = 323 Y = 350 CX = 65 CY = 55/>
+</Link>
+
+<Label Text = "To Dragonscale" X = 400 Y = 235/>
+<Label Text = "Hills" X = 435 Y = 250/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Faydwer.xml" ToolTip = "To Dragonscale Hills">
+	<Rect X = 400 Y = 235 CX = 85 CY = 55/>
+</Link>

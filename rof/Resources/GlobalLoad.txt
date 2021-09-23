@@ -1,0 +1,4 @@
+3,1,TFFFC,Global_chr,Loading Characters
+4,0,TFFFC,Global2_chr,Loading Global Items and Equipment
+4,0,TFFFC,Global3_chr,Loading Global Items and Equipment
+3,0,TFFFC,Global4_chr,Loading Characters

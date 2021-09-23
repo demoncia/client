@@ -1,0 +1,116 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Antonica_NCentral01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_NCentral02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_NCentral03.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_NCentral04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+
+<Label Text = "Crescent" X = 123 Y = 262/>
+<Label Text = "Reach" X = 131 Y = 277/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "crescent" ToolTip = "Crescent Reach">
+	<Rect X = 123 Y = 257 CX = 60 CY = 40/>
+</Link>
+
+<Label Text = "Blightfire" X = 200 Y = 270/>
+<Label Text = "Moors" X = 205 Y = 285/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "moors" ToolTip = "Blightfire Moors">
+	<Rect X = 200 Y = 265 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Stone Hive" X = 281 Y = 266/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "stonehive" ToolTip = "Stone Hive">
+	<Rect X = 279 Y = 264 CX = 50 CY = 15/>
+</Link>
+
+<Label Text = "Goru`kar" X = 240 Y = 215/>
+<Label Text = "Mesa" X = 250 Y = 230/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "mesa" ToolTip = "Goru`kar Mesa">
+	<Rect X = 240 Y = 210 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Blackfeather" X = 157 Y = 218/>
+<Label Text = "Roost" X = 173 Y = 233/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "roost" ToolTip = "Blackfeather Roost">
+	<Rect X = 153 Y = 213 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "The" X = 196 Y = 170/>
+<Label Text = "Steppes" X = 183 Y = 185/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "steppes" ToolTip = "The Steppes">
+	<Rect X = 183 Y = 168 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Icefall Glacier" X = 150 Y = 113/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "icefall" ToolTip = "Icefall Glacier">
+	<Rect X = 150 Y = 113 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Valdeholm" X = 90 Y = 78/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "valdeholm" ToolTip = "Valdeholm">
+	<Rect X = 90 Y = 78 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Frostcrypt" X = 70 Y = 122/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "frostcrypt" ToolTip = "Frostcrypt, Throne of the Shade King">
+	<Rect X = 70 Y = 122 CX = 40 CY = 15/>
+</Link>
+
+<Label Text = "Sunderock" X = 268 Y = 160/>
+<Label Text = "Springs" X = 273 Y = 175/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "sunderock" ToolTip = "Sunderock Springs">
+	<Rect X = 263 Y = 155 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Vergalid" X = 347 Y = 133/>
+<Label Text = "Mines" X = 353 Y = 148/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "vergalid" ToolTip = "Vergalid Mines">
+	<Rect X = 342 Y = 128 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "Direwind Cliffs" X = 270 Y = 100/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "direwind" ToolTip = "Direwind Cliffs">
+	<Rect X = 270 Y = 100 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Ashengate" X = 295 Y = 54/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Ashengate" ToolTip = "Ashengate, Reliquary of the Scale">
+	<Rect X = 295 Y = 54 CX = 60 CY = 15/>
+</Link>
+
+<Label Text = "Highpass" X = 289 Y = 357/>
+<Label Text = "Hold" X = 304 Y = 372/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "highpasshold" ToolTip = "Highpass Hold">
+	<Rect X = 289 Y = 352 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "Highpass" X = 281 Y = 420/>
+<Label Text = "Keep" X = 292 Y = 435/>
+<Link ClickAction = 2 LinkName = "" FileToOpen = "highkeep" ToolTip = "Highpass Keep">
+	<Rect X = 281 Y = 415 CX = 50 CY = 40/>
+</Link>
+
+<Label Text = "To East" X = 163 Y = 397/>
+<Label Text = "Karana" X = 164 Y = 412/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NWest.xml" ToolTip = "To East Karana">
+	<Rect X = 163 Y = 392 CX = 40 CY = 40/>
+</Link>
+
+<Label Text = "To Kithicor" X = 427 Y = 360/>
+<Label Text = "Forest" X = 440 Y = 375/>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NEast.xml" ToolTip = "To Kithicor Forest">
+	<Rect X = 427 Y = 355 CX = 40 CY = 40/>
+</Link>
