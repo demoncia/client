@@ -1,0 +1,1 @@
+go run filelistbuilder.go

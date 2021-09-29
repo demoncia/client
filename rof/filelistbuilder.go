@@ -116,12 +116,12 @@ func run() error {
 	}
 
 	//Now let's make patch zip.
-	//err = createPatch()
-	//if err != nil {
-	//	return fmt.Errorf("createPatch: %w", err)
-	//}
+	err = createPatch()
+	if err != nil {
+		return fmt.Errorf("createPatch: %w", err)
+	}
 
-	log.Println("Wrote filelist_"+config.Client+".yml and patch.zip with", len(fileList.Downloads), "files inside.")
+	log.Println("Wrote filelist_"+config.Client+".yml and demoncia.zip with", len(fileList.Downloads), "files inside.")
 	return nil
 }
 
@@ -130,7 +130,7 @@ func createPatch() error {
 	var f io.Writer
 	var buf *os.File
 
-	buf, err = os.Create("patch.zip")
+	buf, err = os.Create("demoncia.zip")
 	if err != nil {
 		return fmt.Errorf("create path.zip: %w", err)
 	}
@@ -157,7 +157,7 @@ func createPatch() error {
 	}
 
 	//Now let's create a README.txt
-	readme := "Extract the contents of patch.zip to your root EQ directory.\r\n"
+	readme := "Extract the contents of demoncia.zip to play.\r\n"
 	if len(fileList.Deletes) > 0 {
 		readme += "Also delete the following files:\r\n"
 		for _, del := range fileList.Deletes {
@@ -195,10 +195,17 @@ func visit(path string, f os.FileInfo, err error) error {
 		"filelistbuilder",
 		"filelist",
 		"ignore.txt",
-		"MemoryStrategy.txt",
-		"Sky.txt",
+		"memorystrategy.txt",
+		"sky.txt",
 		"dbg.txt",
 		"texture.txt",
+		"eqgame.id",
+		"eqgame.til",
+		"eqgame.nam",
+		"build.bat",
+		"debug.dmp",
+		"demoncia.zip",
+		".sql",
 	}
 	for _, ig := range ignores {
 		if strings.Contains(strings.ToLower(path), ig) {
