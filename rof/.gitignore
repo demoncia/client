@@ -5,3 +5,6 @@ texture.txt
 UIErrors.txt
 eqgame.exe-shortcut.lnk
 patch.zip
+*.id*
+*.til
+*.nam
