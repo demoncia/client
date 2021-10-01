@@ -9,6 +9,5 @@ cub,cub_chr
 com,com_chr
 cof,cof_chr
 rif,rif_chr
-sdf,sdf_chr
 hss,hss_chr
 rea,rea_chr
