@@ -137,6 +137,8 @@ func createPatch() error {
 
 	patchFile = zip.NewWriter(buf)
 
+	fileList.Downloads = append(fileList.Downloads, FileEntry{Name: "demoncia.exe"})
+
 	for _, download := range fileList.Downloads {
 		var in io.Reader
 		//fmt.Println("Adding", download.Name)
@@ -213,6 +215,7 @@ func visit(path string, f os.FileInfo, err error) error {
 		"uierrors.txt",
 		"eqzxc.exe",
 		"eqgame.exe -",
+		"demoncia.exe",
 	}
 	if strings.HasPrefix(path, "_") && strings.Contains(path, "\\") {
 		return nil

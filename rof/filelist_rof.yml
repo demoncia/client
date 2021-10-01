@@ -1,4 +1,4 @@
-version: 20211001a75df1368a003740fe9ce3fdeb804be3
+version: 2021100145774d43cc7f1a0b92e34d7fe7e44310
 downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
@@ -2245,10 +2245,6 @@ downloads:
   md5: eb09a72d9eb403de2b869af839701237
   date: "20190107"
   size: 46856
-- name: dinput8.dll
-  md5: 3c93ac26fb0cc2ae6579f0104a8491ba
-  date: "20211001"
-  size: 1536000
 - name: dpvs.dll
   md5: 86998e2c096887a6b9dd5a72cfc49aa0
   date: "20190107"
