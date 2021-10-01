@@ -8,3 +8,5 @@ demoncia.zip
 *.id*
 *.til
 *.nam
+*.exp
+UIErrors.txt

@@ -206,6 +206,14 @@ func visit(path string, f os.FileInfo, err error) error {
 		"debug.dmp",
 		"demoncia.zip",
 		".sql",
+		".exp",
+		".ilk",
+		".lib",
+		".pdb",
+		"uierrors.txt",
+	}
+	if strings.HasPrefix(path, "_") && strings.Contains(path, "\\") {
+		return nil
 	}
 	for _, ig := range ignores {
 		if strings.Contains(strings.ToLower(path), ig) {
