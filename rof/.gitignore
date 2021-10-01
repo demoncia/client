@@ -10,3 +10,6 @@ demoncia.zip
 *.nam
 *.exp
 UIErrors.txt
+UI_*.ini
+*_de.ini
+*.lnk

@@ -211,8 +211,19 @@ func visit(path string, f os.FileInfo, err error) error {
 		".lib",
 		".pdb",
 		"uierrors.txt",
+		"eqzxc.exe",
+		"eqgame.exe -",
 	}
 	if strings.HasPrefix(path, "_") && strings.Contains(path, "\\") {
+		return nil
+	}
+	if strings.HasSuffix(path, ".ini") && strings.Contains(path, "UI_") {
+		return nil
+	}
+	if strings.HasSuffix(path, "_de.ini") {
+		return nil
+	}
+	if strings.HasPrefix(path, "Logs\\") {
 		return nil
 	}
 	for _, ig := range ignores {

@@ -1,0 +1,14 @@
+ZoneType Outdoor
+
+Creature KEM, gnoll
+Creature KEF, goblin
+
+ElevationGrid 0, 0, 0, 0, 0, 0, 1, 1
+ElevationGridHeights 0, 0, 0
+
+Mesh
+  Name    HeightMapGround
+  Loc     0, 0, 0
+  Heading 0, 0, 0
+  Size    1, 1, 1
+End

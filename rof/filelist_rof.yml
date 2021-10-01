@@ -1,4 +1,4 @@
-version: 20210928691acdf5f85a67b38a0319c3b8c81ca2
+version: 20211001a75df1368a003740fe9ce3fdeb804be3
 downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
@@ -1426,9 +1426,9 @@ downloads:
   date: "20210921"
   size: 197
 - name: Resources\GlobalLoad_chr.txt
-  md5: 2028ab5b7ce133ba4f0802b84038c26c
-  date: "20190107"
-  size: 173
+  md5: cfcd208495d565ef66e7dff9f98764da
+  date: "20211001"
+  size: 1
 - name: Resources\Memory.ini
   md5: 9da7afea5f1313e3be34a54d9cfbae48
   date: "20190107"
@@ -2146,9 +2146,9 @@ downloads:
   date: "20190107"
   size: 170
 - name: Resources\loadscreen.jpg
-  md5: 4f3fd01581c79f6fbab70597a3c9f535
-  date: "20210430"
-  size: 1846451
+  md5: 4343046f89accc38c6f4e90f27dc73ad
+  date: "20211001"
+  size: 256607
 - name: Resources\moddat.ini
   md5: afca1a3d2560ec542597cbc780523e50
   date: "20190107"
@@ -2173,10 +2173,6 @@ downloads:
   md5: 5179dcad8fbfa4c1b94d3d0a40399b3e
   date: "20190107"
   size: 4564
-- name: UIErrors.txt
-  md5: 64699c444181d51eda7b5fadf18ce24e
-  date: "20210927"
-  size: 99565
 - name: VoiceChat.ini
   md5: d41d8cd98f00b204e9800998ecf8427e
   date: "20190107"
@@ -2204,7 +2200,7 @@ downloads:
   size: 1886
 - name: clz.s3d
   md5: c6e57d1abd6c425f078acaba0eac518d
-  date: "20210926"
+  date: "20211001"
   size: 129625
 - name: clz.zon
   md5: 4daeb8ccaf1e6858adbb043323f0db40
@@ -2216,23 +2212,19 @@ downloads:
   size: 745
 - name: clz_chr.s3d
   md5: 1202a018508a2f9c5ed825f7ccfd9f60
-  date: "20210926"
+  date: "20211001"
   size: 122
 - name: clz_obj.s3d
   md5: b5ec766250a53bfb6e892421e3332b5d
-  date: "20210926"
+  date: "20211001"
   size: 122
 - name: clz_sndbnk.eff
   md5: 8a6a53d71d4f08cfb537624a40a9b15a
-  date: "20210926"
+  date: "20211001"
   size: 12
 - name: clz_sounds.eff
   md5: d41d8cd98f00b204e9800998ecf8427e
-  date: "20210926"
-- name: cof_chr.s3d
-  md5: a4ef5257f62e6bfcc9c36fc7031ce039
-  date: "20210815"
-  size: 414092
+  date: "20211001"
 - name: combattheme1.mp3
   md5: 4b59172cee3eed2b2e50757f4819ccaf
   date: "20190107"
@@ -2254,8 +2246,8 @@ downloads:
   date: "20190107"
   size: 46856
 - name: dinput8.dll
-  md5: d9ef3ca416a1bc7be8f1d346115bda39
-  date: "20210926"
+  md5: 3c93ac26fb0cc2ae6579f0104a8491ba
+  date: "20211001"
   size: 1536000
 - name: dpvs.dll
   md5: 86998e2c096887a6b9dd5a72cfc49aa0
@@ -2269,25 +2261,6 @@ downloads:
   md5: 87f5296b8d74340a357cbf2a508efa55
   date: "20190107"
   size: 81920
-- name: ecommons.s3d
-  md5: 847405ef458d54ee25dd72e634088c7f
-  date: "20210922"
-  size: 69482
-- name: ecommons_chr.s3d
-  md5: b6b322f08d7cc804bfb0d4d2aea16f2f
-  date: "20210921"
-  size: 127
-- name: ecommons_obj.s3d
-  md5: c7e8e23d861e5724734e8920be2b3c25
-  date: "20210921"
-  size: 127
-- name: ecommons_sndbnk.eff
-  md5: 8a6a53d71d4f08cfb537624a40a9b15a
-  date: "20210921"
-  size: 12
-- name: ecommons_sounds.eff
-  md5: d41d8cd98f00b204e9800998ecf8427e
-  date: "20210921"
 - name: environmentemittersnew.edd
   md5: e43cb6942987ad0fe6adf0eb47632656
   date: "20190107"
@@ -2297,9 +2270,9 @@ downloads:
   date: "20210831"
   size: 404
 - name: eqclient.ini
-  md5: 2afa31872bfa672d06ac0ccd594d8ca4
-  date: "20210928"
-  size: 11594
+  md5: 731339921ebbe0996249fc94ca4e3d84
+  date: "20211001"
+  size: 11622
 - name: eqdevice.txt
   md5: 27071c337a6c913e1268ece5a5ad080e
   date: "20190107"
@@ -2308,22 +2281,18 @@ downloads:
   md5: 513fdc2b5cc63898d7962f0985d5c207
   date: "20210926"
   size: 8774656
-- name: eqgame.exe-shortcut.lnk
-  md5: 35f77c6b7796d6ba90dc02d7cfa61432
-  date: "20210922"
-  size: 840
 - name: eqhost.txt
   md5: 0a349706f59c64667904beca91defc85
   date: "20190107"
   size: 47
 - name: eqlsPlayerData.ini
-  md5: 65c1f5f5d079860200222b7a1184c62b
-  date: "20210927"
-  size: 529
+  md5: cfbffd8c3b7ed91f9d82ff8a25b9ff46
+  date: "20211001"
+  size: 528
 - name: eqlsUIConfig.ini
-  md5: e375c5fd8ffdca3a1f4c4b3135d00ded
-  date: "20210921"
-  size: 6805
+  md5: aacf13b329b18d03d11a54687c4a8b35
+  date: "20210929"
+  size: 6814
 - name: eqlsnews.txt
   md5: d04f4e91f6521a511a6d6f4c75c75dcd
   date: "20190107"
@@ -2360,6 +2329,10 @@ downloads:
   md5: 1b82fffcc3d982a8c231452fadfeef39
   date: "20210815"
   size: 2491998
+- name: global7_chr.s3d
+  md5: 4fc515b1dbb199645bc72dae3912f661
+  date: "20211001"
+  size: 479265
 - name: global_chr.s3d
   md5: d60f6b726a768bc359ba4e20d915fffe
   date: "20210815"
@@ -2397,7 +2370,7 @@ downloads:
   size: 348160
 - name: notes.txt
   md5: d41d8cd98f00b204e9800998ecf8427e
-  date: "20210925"
+  date: "20211001"
 - name: nspr4.dll
   md5: e9e0b888f3ba0594d86dfd18f51d4152
   date: "20190107"
@@ -2430,22 +2403,10 @@ downloads:
   md5: 0173b64b82cfb34a98b927c41f99e03c
   date: "20190107"
   size: 168196
-- name: rea_chr.s3d
-  md5: 403e09c25cfcb4902c9c3d40150f048a
-  date: "20210815"
-  size: 71412
 - name: readonce.txt
   md5: 069768cc83d18ed516d99fda50b3880e
   date: "20190107"
   size: 881
-- name: rif_chr.s3d
-  md5: 59d7fdae6529d9d15e0fd3af18bed04a
-  date: "20210815"
-  size: 55342
-- name: sdf_chr.s3d
-  md5: 856406eed39a9061ee3fbf01228a39ee
-  date: "20210815"
-  size: 188794
 - name: smackw32.dll
   md5: 646b7a8a1c46b8d59a3246762618166a
   date: "20190107"
@@ -2546,10 +2507,6 @@ downloads:
   md5: b7f3385125b78eb33877cc76db01a00f
   date: "20190107"
   size: 124296
-- name: tssequip.eqg
-  md5: ddb28e17bb2b09eb6db29b0eb947085e
-  date: "20210926"
-  size: 5274165
 - name: uifiles\default\Achievement_TitleBorders.tga
   md5: 681271547d49daf4545848a484bfa55f
   date: "20190107"
