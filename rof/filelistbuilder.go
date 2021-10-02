@@ -216,6 +216,17 @@ func visit(path string, f os.FileInfo, err error) error {
 		"eqzxc.exe",
 		"eqgame.exe -",
 		"demoncia.exe",
+		"demoncia.yml",
+		"filelist.yml",
+		"notes.txt",
+		"azone.exe",
+		"awater.log",
+		"azone.log",
+		"awater.exe",
+		"map_edit.exe",
+		"waypoint.bat",
+		"meshgenerator.exe",
+		"imgui.ini",
 	}
 	if strings.HasPrefix(path, "_") && strings.Contains(path, "\\") {
 		return nil

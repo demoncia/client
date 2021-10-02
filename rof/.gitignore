@@ -13,3 +13,10 @@ UIErrors.txt
 UI_*.ini
 *_de.ini
 *.lnk
+demoncia.yml
+filelist.yml
+notes.txt
+*.autosave.map
+waypoint.bat
+rof/*.map
+imgui.ini

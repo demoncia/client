@@ -1,4 +1,4 @@
-version: 2021100145774d43cc7f1a0b92e34d7fe7e44310
+version: 202110023c7a9654d8145fe6aafc3201b1aaff42
 downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
@@ -2229,6 +2229,25 @@ downloads:
   md5: 4b59172cee3eed2b2e50757f4819ccaf
   date: "20190107"
   size: 1012059
+- name: crystalshard.s3d
+  md5: 1ee44b29c24e8fcfcb875aeface584b7
+  date: "20211002"
+  size: 287114
+- name: crystalshard_chr.s3d
+  md5: 179175492313f5de656a45e75c8bc77d
+  date: "20211002"
+  size: 131
+- name: crystalshard_obj.s3d
+  md5: 4ebeba4d5c2c0f10f6bd629fba1cc17a
+  date: "20211002"
+  size: 131
+- name: crystalshard_sndbnk.eff
+  md5: 8a6a53d71d4f08cfb537624a40a9b15a
+  date: "20211002"
+  size: 12
+- name: crystalshard_sounds.eff
+  md5: d41d8cd98f00b204e9800998ecf8427e
+  date: "20211002"
 - name: dbghelp.dll
   md5: 820baff3cda72e782dd621bfad8968f7
   date: "20190107"
@@ -2266,9 +2285,9 @@ downloads:
   date: "20210831"
   size: 404
 - name: eqclient.ini
-  md5: 731339921ebbe0996249fc94ca4e3d84
-  date: "20211001"
-  size: 11622
+  md5: f7202ed23fe147c6dbb6027efefed224
+  date: "20211002"
+  size: 11623
 - name: eqdevice.txt
   md5: 27071c337a6c913e1268ece5a5ad080e
   date: "20190107"
@@ -2282,9 +2301,9 @@ downloads:
   date: "20190107"
   size: 47
 - name: eqlsPlayerData.ini
-  md5: cfbffd8c3b7ed91f9d82ff8a25b9ff46
-  date: "20211001"
-  size: 528
+  md5: 7bafb90bb878da530b406e7e113984b1
+  date: "20211002"
+  size: 529
 - name: eqlsUIConfig.ini
   md5: aacf13b329b18d03d11a54687c4a8b35
   date: "20210929"
@@ -2364,9 +2383,6 @@ downloads:
   md5: 86f1895ae8c5e8b17d99ece768a70732
   date: "20190107"
   size: 348160
-- name: notes.txt
-  md5: d41d8cd98f00b204e9800998ecf8427e
-  date: "20211001"
 - name: nspr4.dll
   md5: e9e0b888f3ba0594d86dfd18f51d4152
   date: "20190107"
