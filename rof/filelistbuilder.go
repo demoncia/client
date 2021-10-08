@@ -227,6 +227,7 @@ func visit(path string, f os.FileInfo, err error) error {
 		"waypoint.bat",
 		"meshgenerator.exe",
 		"imgui.ini",
+		"eqlsPlayerData.ini",
 	}
 	if strings.HasPrefix(path, "_") && strings.Contains(path, "\\") {
 		return nil
