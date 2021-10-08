@@ -21,6 +21,5 @@ waypoint.bat
 rof/*.map
 imgui.ini
 eqlsPlayerData.ini
-radiant/baseq3/textures/
 *.i64
-*.autosave.map
+*.opt
