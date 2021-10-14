@@ -7135,3 +7135,5 @@ EQST0002
 35151 Remove Last Extended Target
 35152 Cycle through Extended Targets
 35153 Remove Targeted from Extended Targets
+35154 Darkened Hollows
+35155 Demonic Delves

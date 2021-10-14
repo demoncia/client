@@ -1,4 +1,4 @@
-version: 20211011deca0d309661402ead1de26dda9871ab
+version: 2021101337c05d5f009807638015d94016243ada
 downloadprefix: https://raw.githubusercontent.com/demoncia/client/main/rof/
 downloads:
 - name: '!CheckMinSpec.dll'
@@ -1422,9 +1422,9 @@ downloads:
   date: "20190107"
   size: 1721
 - name: Resources\GlobalLoad.txt
-  md5: 53296650c057a7715fe9bfe9cc9cb66f
-  date: "20211011"
-  size: 317
+  md5: acb819adb482f18b4c56782dd87ab312
+  date: "20211013"
+  size: 351
 - name: Resources\GlobalLoad_chr.txt
   md5: c4ca4238a0b923820dcc509a6f75849b
   date: "20211008"
@@ -2229,25 +2229,6 @@ downloads:
   md5: 4b59172cee3eed2b2e50757f4819ccaf
   date: "20190107"
   size: 1012059
-- name: crystalshard.s3d
-  md5: b4dacbd2dd1e154aa9ae06cc8d7e18f3
-  date: "20211011"
-  size: 285914
-- name: crystalshard_chr.s3d
-  md5: 179175492313f5de656a45e75c8bc77d
-  date: "20211011"
-  size: 131
-- name: crystalshard_obj.s3d
-  md5: 4ebeba4d5c2c0f10f6bd629fba1cc17a
-  date: "20211011"
-  size: 131
-- name: crystalshard_sndbnk.eff
-  md5: 8a6a53d71d4f08cfb537624a40a9b15a
-  date: "20211011"
-  size: 12
-- name: crystalshard_sounds.eff
-  md5: d41d8cd98f00b204e9800998ecf8427e
-  date: "20211011"
 - name: dbghelp.dll
   md5: 820baff3cda72e782dd621bfad8968f7
   date: "20190107"
@@ -2264,9 +2245,28 @@ downloads:
   md5: eb09a72d9eb403de2b869af839701237
   date: "20190107"
   size: 46856
+- name: delves.s3d
+  md5: e8014946c7c3bef0396f859997af40cd
+  date: "20211013"
+  size: 25274
+- name: delves_chr.txt
+  md5: 3ccf0208b93ff81a1cb82bf1ab44f803
+  date: "20211013"
+  size: 14
+- name: delves_obj.s3d
+  md5: 62e37a3beba3595aaa990699ddc1b268
+  date: "20211013"
+  size: 125
+- name: delves_sndbnk.eff
+  md5: 8a6a53d71d4f08cfb537624a40a9b15a
+  date: "20211013"
+  size: 12
+- name: delves_sounds.eff
+  md5: d41d8cd98f00b204e9800998ecf8427e
+  date: "20211013"
 - name: dinput8.dll
-  md5: ca955a3f986ddfbef052c2773c48f23d
-  date: "20211010"
+  md5: 28248d6fed19c7f2967703e34abf5db7
+  date: "20211013"
   size: 1046016
 - name: dpvs.dll
   md5: 86998e2c096887a6b9dd5a72cfc49aa0
@@ -2276,6 +2276,10 @@ downloads:
   md5: 41e484dcfc7d996518532ade1e528926
   date: "20190107"
   size: 729148
+- name: dra_chr.s3d
+  md5: d15caf00f09e901d15e9df3f8efa94a5
+  date: "20210815"
+  size: 1048116
 - name: eaxman.dll
   md5: 87f5296b8d74340a357cbf2a508efa55
   date: "20190107"
@@ -2289,9 +2293,9 @@ downloads:
   date: "20211004"
   size: 404
 - name: eqclient.ini
-  md5: 76dac5643fe09c9d91bf75c0661446ba
-  date: "20211011"
-  size: 11623
+  md5: 4f79401fa1b6b5238248abab2e4c06c7
+  date: "20211013"
+  size: 11619
 - name: eqdevice.txt
   md5: 27071c337a6c913e1268ece5a5ad080e
   date: "20190107"
@@ -2309,8 +2313,8 @@ downloads:
   date: "20190107"
   size: 47
 - name: eqlsPlayerData.ini
-  md5: c9a0f17c20e2c1244fad29e1e11fbb73
-  date: "20211011"
+  md5: d39f011a8d9d335b7fd615cf0e86280f
+  date: "20211013"
   size: 529
 - name: eqlsUIConfig.ini
   md5: aacf13b329b18d03d11a54687c4a8b35
@@ -2325,9 +2329,9 @@ downloads:
   date: "20190107"
   size: 1346560
 - name: eqstr_us.txt
-  md5: 9fc50449cd839a43c6bba9b33e63cdef
-  date: "20210815"
-  size: 432249
+  md5: 60a672ffc6572568eb90ff45759caeb7
+  date: "20211013"
+  size: 432293
 - name: eqtheme.mp3
   md5: 003890c683fdf4112ccd45d8365a1a0b
   date: "20190107"
@@ -2371,6 +2375,25 @@ downloads:
 - name: globalpcfroglok_sounds.eff
   md5: d41d8cd98f00b204e9800998ecf8427e
   date: "20211011"
+- name: hollows.s3d
+  md5: ed3f39495edc3838a2a8a576fea8beab
+  date: "20211012"
+  size: 285904
+- name: hollows_chr.s3d
+  md5: f7424a778b188ad70e02a1efc06d8de5
+  date: "20211012"
+  size: 126
+- name: hollows_obj.s3d
+  md5: 2c6be637b44d2725b13bbd33f536ffdd
+  date: "20211012"
+  size: 126
+- name: hollows_sndbnk.eff
+  md5: 8a6a53d71d4f08cfb537624a40a9b15a
+  date: "20211012"
+  size: 12
+- name: hollows_sounds.eff
+  md5: d41d8cd98f00b204e9800998ecf8427e
+  date: "20211012"
 - name: js3250.dll
   md5: 780c2fd4b3117a7d3f77a6f3bdc6629d
   date: "20190107"
