@@ -4,3 +4,4 @@
 3,0,TFFFC,Global4_chr,Loading Barbarian, Iksar Characters
 1,1,TFFTC,GlobalPCFroglok_chr,Loading Froglok
 1,1,TFFFC,Global24_chr,Loading Drakkin
+1,0,TFFF,dra_chr,Loading Dragons
