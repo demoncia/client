@@ -1,0 +1,8 @@
+{
+    "python.analysis.disabled": ["unresolved-import", "use-before-def"],
+    "[python]": {
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ]
+    }
+}
