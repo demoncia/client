@@ -27,3 +27,5 @@ eqlsPlayerData.ini
 *.config
 *_req.ini
 *.pdb
+dinput8.ilk
+dinput8.lib
