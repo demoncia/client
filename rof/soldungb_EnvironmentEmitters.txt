@@ -1,0 +1,2 @@
+Name^EmitterDefIdx^X^Y^Z^Lifespan
+portaleffect^259^-0.0^0.0^2.0^90000000
