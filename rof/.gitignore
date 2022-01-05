@@ -25,3 +25,5 @@ eqlsPlayerData.ini
 *.opt
 *.blend1
 *.config
+*_req.ini
+*.pdb
